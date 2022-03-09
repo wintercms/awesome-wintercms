@@ -1,9 +1,3 @@
-<p align="center">
-  <br>
-  <img width="300" src="media/awesome-oc-logo.png" alt="Awesome OctoberCMS">
-  <br>
-</p>
-
 ## Awesome WinterCMS
 > A curated list of awesome things related to Winter CMS.
 
