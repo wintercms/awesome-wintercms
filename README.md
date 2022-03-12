@@ -82,12 +82,22 @@ Winter CMS is also compatible with most OctoberCMS plugins available at https://
 - [JaxWilko.MediaStream](https://packagist.org/packages/jaxwilko/wn-mediastream-plugin) - Adds streaming support for html5 videos.
 - [JaxWilko.OpcachePreload](https://packagist.org/packages/jaxwilko/wn-opcachepreload-plugin) - Winter CMS support for opcache preloading.
 
-
+- [Asped.BlogProtect](https://packagist.org/packages/asped/wn-blogprotect-plugin) - Adds permissions to the blog posts.
+- [ByteMethod.Blizzard](https://packagist.org/packages/bytemethod/wn-blizzard-plugin) - A collection of extensions and helpers for Winter CMS.
 - [CreativeSizzle.Redirect](https://packagist.org/packages/creative-sizzle/wn-redirect-plugin) - Advanced redirect plugin
+- [CreativeSizzle.TwigExtensions](https://packagist.org/packages/creative-sizzle/wn-twigextensions-plugin) - Register more Twig filters for your Winter CMS templates.
+- [Dimsog.Blog](https://packagist.org/packages/dimsog/wn-blog-plugin) - A simple blog plugin for WinterCMS.
+- [Dimsog.Comments](https://packagist.org/packages/dimsog/wn-comments-plugin) - Add comments to any page on your site.
+- [Dimsog.Slider](https://packagist.org/packages/dimsog/wn-slider-plugin) - Swiper slider for WinterCMS.
+- [DynaMedia.Posts](https://packagist.org/packages/dynamedia/wn-posts-plugin) - Posts publishing plugin
 - [Flynsarmy.IDEHelper](https://packagist.org/packages/flynsarmy/wn-idehelper-plugin) - Generates an `_idehelper.php` file to improve the IDE experience.
 - [Flynsarmy.SocialLogin](https://github.com/Flynsarmy/wn-sociallogin-plugin) - Allows Winter CMS site visitors to register/sign in with their social media accounts
 - [Flynsarmy.ContentBlocks](https://github.com/Flynsarmy/wn-contentblocks-plugin) - Allow clients to update content blocks directly from the layouts/pages/partials that use them.
 - [Flynsarmy.Menu](https://github.com/Flynsarmy/wn-menu-plugin) - Menu Lists plugin.
+- [GinoPane.BlogTaxonomy](https://packagist.org/packages/ginopane/wn-blogtaxonomy-plugin) - A robust Winter CMS plugin which extends Winter Blog Plugin with useful taxonomies.
+- [Houndd.MallForWinter](https://packagist.org/packages/hounddd/wn-mallforwinter-plugin) - Improve Offline.mall compatibility with WinterCMS.
+- [Houndd.MallImportExport](https://packagist.org/packages/hounddd/wn-mallimportexport-plugin) - Import or export data to OFFLINE.mall.
+- [Houndd.Tawkto](https://packagist.org/packages/hounddd/wn-tawkto-plugin) - TawkTo chat plugin for WinterCMS.
 - [Imateo.Dump](https://packagist.org/packages/imateo/wn-dump-plugin) - Winter CMS twig dump.
 - [JosephCrowell.SitemapPretty](https://packagist.org/packages/josephcrowell/wn-sitemappretty-plugin) - Pretty up the sitemap.xml provided by Winter.Sitemap
 - [JosephCrowell.Passage](https://packagist.org/packages/josephcrowell/wn-passage-plugin) - Fast, Efficient permission system for controlling access to your website resources.
@@ -129,6 +139,7 @@ Winter CMS is also compatible with most OctoberCMS plugins available at https://
 - [SunLab.GamificationPermissions](https://packagist.org/packages/sunlab/wn-gamification-permissions-plugin) - Assign permissions to gamification plugin.
 - [SunLab.EmojiPicker](https://packagist.org/packages/sunlab/wn-emojipicker-plugin) - Provides an Emoji Picker form widget.
 - [SunLab.EmojiForBlog](https://packagist.org/packages/sunlab/wn-emojiforblog-plugin) - Integrates the EmojiPicker formwidget with Winter.Blog.
+- [Teranode.ApplicationCore](https://packagist.org/packages/teranode/wn-application-core-plugin) - Laravel class loader plugin for Winter CMS.
 - [WebVPF.ShareButtons](https://packagist.org/packages/webvpf/wn-share-plugin) - Displays share buttons.
 - [WebVPF.Christmas](https://packagist.org/packages/webvpf/wn-christmas-plugin) - Christmas plugin for Winter CMS.
 - [WebVPF.DarkBackend](https://packagist.org/packages/webvpf/wn-darkbackend-plugin) - Dark theme backend skin.
@@ -148,7 +159,9 @@ Winter CMS is also compatible with most OctoberCMS themes available at https://o
 
 #### Community
 - [ViteTailwind](https://packagist.org/packages/marcomessa/wn-vite-tailwind-theme) - A starter blank theme powered by Vite and TailwindCSS.
-- 
+- [Blocks](https://packagist.org/packages/hounddd/wn-blocks-theme) - Theme that demonstrates the use of repeater groups to assemble static pages with customizable building sections and blocks.
+- [PostsDemo](https://packagist.org/packages/dynamedia/wn-postsdemo-theme) - Demo theme for Dynamedia Posts plugin.
+- [BlogDemo](https://packagist.org/packages/dimsog/wn-blog-theme) - A simple blog theme for Dimsog.Blog.
 
 ### Tools
 
