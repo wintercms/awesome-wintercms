@@ -74,14 +74,31 @@ Winter CMS is also compatible with most OctoberCMS plugins available at https://
 - [Winter.User](https://github.com/wintercms/wn-User-plugin) - Frontend user management.
 - [Winter.UserPlus](https://github.com/wintercms/wn-UserPlus-plugin) - Demonstration of how to dynamically extend other plugins.
 
-#### Community
+#### By the Maintainers
+- [LukeTowers.AzureADSSO](https://github.com/LukeTowers/oc-azureadsso-plugin) - Adds support for logging into the backend with Azure Active Directory Single Sign On (SSO) OAuth.
+- [LukeTowers.EasyAudit](https://github.com/LukeTowers/oc-easyaudit-plugin) - $30 - Paid plugin that allows you to easily view and manage audit logs for models within your WinterCMS projects.
+- [LukeTowers.EasyFacebookFeed](https://github.com/LukeTowers/oc-easyfacebookfeed-plugin) - $20 - Paid plugin that adds the ability to display and interact with a Facebook Page feed. Posts are pulled from Facebook and stored locally in the database before being rendered by the Feed component allowing you to precisely control what appears on your website.
+- [LukeTowers.EasyFiles](https://github.com/LukeTowers/oc-easyfiles-public-plugin) - $50 - Paid file manager plugin that allows you to share your files with frontend users.
 - [LukeTowers.EasyForms](https://github.com/luketowers) - $50 - Paid plugin available on request that provides a GravityForms like experience for frontend forms.
+- [LukeTowers.EasySPA](https://github.com/LukeTowers/oc-easyspa-plugin) - $30 - Paid plugin that enables frontend page navigation over AJAX bringing SPA-like performance to navigating between pages.
+- [LukeTowers.EEImport](https://github.com/LukeTowers/oc-eeimport-plugin) - Provides tools to import data directly from an ExpressionEngine database.
+- [LukeTowers.EezeAuth](https://github.com/LukeTowers/oc-eezeauth-plugin) - Integrates with eeze.io.
+- [LukeTowers.EFPDF](https://github.com/LukeTowers/oc-efpdf-plugin) - Generate PDFs from form submissions for the LukeTowers.EasyForms plugin.
+- [LukeTowers.EssentialVars](https://github.com/LukeTowers/oc-essentialvars-plugin) - Adds the `app_[url|logo|favicon|name|debug|description]` variables to Mail & CMS templates.
+- [LukeTowers.FileLocker](https://github.com/LukeTowers/oc-filelocker-plugin-issues) - $50 - Private, easy to use, file manager that provides access to authenticated users only.
+- [LukeTowers.FlashAlertNet](https://github.com/LukeTowers/wn-flashalertnet-plugin) - Pulls data from FlashAlert.net.
+- [LukeTowers.GDriveFilesystemDriver](https://github.com/LukeTowers/oc-gdrivefilesystemdriver-plugin) - Provides the Google Drive filesystem driver.
+- [LukeTowers.GNUTerryPratchett](https://github.com/LukeTowers/oc-gnuterrypratchett-plugin) - Keep Sir Terry Pratchett alive forever, in the Winter CMS clacks.
+- [LukeTowers.GoogleDomainVerification](https://github.com/LukeTowers/oc-googledomainverification-plugin) - Handles Google Domain Verification requests.
+- [LukeTowers.SnappyPDF](https://github.com/LukeTowers/oc-snappypdf-plugin) - Integrates SnappyPDF PDF generation into Winter CMS.
+- [LukeTowers.TwigPCRE](https://github.com/LukeTowers/oc-twigpcre-plugin) - Adds Twig PCRE Filters / Functions.
 - [BennoThommo.UrlNormaliser](https://packagist.org/packages/bennothommo/wn-urlnormaliser-plugin) - Normalise URLs for your Winter CMS website and ensure that search engines only index your canonical paths to prevent duplicate content.
 - [BennoThommo.Meta](https://packagist.org/packages/bennothommo/wn-meta-plugin) - Provides an easy interface to insert HTML meta and link tags into a Winter CMS layout or page.
 - [JaxWilko.Migrator](https://packagist.org/packages/jaxwilko/datamigrator) - A plugin that converts your database data to flat files.
 - [JaxWilko.MediaStream](https://packagist.org/packages/jaxwilko/wn-mediastream-plugin) - Adds streaming support for html5 videos.
 - [JaxWilko.OpcachePreload](https://packagist.org/packages/jaxwilko/wn-opcachepreload-plugin) - Winter CMS support for opcache preloading.
 
+#### Community
 - [Asped.BlogProtect](https://packagist.org/packages/asped/wn-blogprotect-plugin) - Adds permissions to the blog posts.
 - [ByteMethod.Blizzard](https://packagist.org/packages/bytemethod/wn-blizzard-plugin) - A collection of extensions and helpers for Winter CMS.
 - [CreativeSizzle.Redirect](https://packagist.org/packages/creative-sizzle/wn-redirect-plugin) - Advanced redirect plugin
@@ -93,7 +110,8 @@ Winter CMS is also compatible with most OctoberCMS plugins available at https://
 - [Flynsarmy.IDEHelper](https://packagist.org/packages/flynsarmy/wn-idehelper-plugin) - Generates an `_idehelper.php` file to improve the IDE experience.
 - [Flynsarmy.SocialLogin](https://github.com/Flynsarmy/wn-sociallogin-plugin) - Allows Winter CMS site visitors to register/sign in with their social media accounts
 - [Flynsarmy.ContentBlocks](https://github.com/Flynsarmy/wn-contentblocks-plugin) - Allow clients to update content blocks directly from the layouts/pages/partials that use them.
-- [Flynsarmy.Menu](https://github.com/Flynsarmy/wn-menu-plugin) - Menu Lists plugin.
+- [Flynsarmy.ImageOptimizer](https://github.com/Flynsarmy/wn-imageoptimizer-plugin) - Automatically optimizes images on upload/resize.
+- [Flynsarmy.Menu](https://github.com/Flynsarmy/wn-menu-plugin) - This plugin adds customisable and flexible menu generation to Winter CMS with a convenient drag and drop UI.
 - [GinoPane.BlogTaxonomy](https://packagist.org/packages/ginopane/wn-blogtaxonomy-plugin) - A robust Winter CMS plugin which extends Winter Blog Plugin with useful taxonomies.
 - [Houndd.MallForWinter](https://packagist.org/packages/hounddd/wn-mallforwinter-plugin) - Improve Offline.mall compatibility with WinterCMS.
 - [Houndd.MallImportExport](https://packagist.org/packages/hounddd/wn-mallimportexport-plugin) - Import or export data to OFFLINE.mall.
@@ -162,6 +180,7 @@ Winter CMS is also compatible with most OctoberCMS themes available at https://o
 - [Blocks](https://packagist.org/packages/hounddd/wn-blocks-theme) - Theme that demonstrates the use of repeater groups to assemble static pages with customizable building sections and blocks.
 - [PostsDemo](https://packagist.org/packages/dynamedia/wn-postsdemo-theme) - Demo theme for Dynamedia Posts plugin.
 - [BlogDemo](https://packagist.org/packages/dimsog/wn-blog-theme) - A simple blog theme for Dimsog.Blog.
+- [LukeTowers.Blank](https://github.com/LukeTowers/wn-blank-theme) - Blank starter theme
 
 ### Tools
 
