@@ -136,7 +136,7 @@ Winter CMS is also compatible with most OctoberCMS plugins available at https://
 - [Norotoro.BlogAPI](https://packagist.org/packages/norotaro/wn-blogapi-plugin) - Simple JSON Rest API for consuming data from Winter.Blog.
 - [Norotoro.Cors](https://packagist.org/packages/norotaro/wn-cors-plugin) - Manages CORS headers in Winter CMS.
 - [Norotoro.Firebase](https://packagist.org/packages/norotaro/wn-firebase-plugin) - Integrates Firebase for Laravel.
-- [Norotoro.Firebase](https://packagist.org/packages/norotaro/wn-firebaseusers-plugin) - Syncs Winter.User frontend users with Firebase.
+- [Norotoro.FirebaseUsers](https://packagist.org/packages/norotaro/wn-firebaseusers-plugin) - Syncs Winter.User frontend users with Firebase.
 - [Norotoro.Guardian](https://packagist.org/packages/norotaro/wn-guardian-plugin) - Easily restrict access to routes declared by plugins in `routes.php`.
 - [Norotoro.Rest](https://packagist.org/packages/norotaro/wn-rest-plugin) - Utilities for creating Rest endpoints in WinterCMs.
 - [PlanetaDeleste.LocationTowns](https://packagist.org/packages/planetadeleste/wn-locationtowns-plugin) - Adds cities / towns to Winter.Location.
