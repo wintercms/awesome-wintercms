@@ -100,6 +100,7 @@ Winter CMS is also compatible with most OctoberCMS plugins available at https://
 - [JaxWilko.OpcachePreload](https://packagist.org/packages/jaxwilko/wn-opcachepreload-plugin) - Winter CMS support for opcache preloading.
 
 #### Community
+- [Aic.Faq](https://github.com/AIC-BV/wn-faq-plugin) - Create (multilingual) FAQs and assign them to categories.
 - [Asped.BlogProtect](https://packagist.org/packages/asped/wn-blogprotect-plugin) - Adds permissions to the blog posts.
 - [ByteMethod.Blizzard](https://packagist.org/packages/bytemethod/wn-blizzard-plugin) - A collection of extensions and helpers for Winter CMS.
 - [CreativeSizzle.Redirect](https://packagist.org/packages/creative-sizzle/wn-redirect-plugin) - Advanced redirect plugin
