@@ -194,6 +194,10 @@ Winter CMS is also compatible with most OctoberCMS themes available at https://o
 
 **Tutorials published in:**
 
+#### 2022:
+- [Introduction on how to create a blog or news website with Winter CMS](https://www.youtube.com/watch?v=Itjy-Bxc0DA)
+- [How to create a personal blog or website with Winter CMS](https://www.youtube.com/watch?v=vsnXc9loxv8)
+
 #### 2019
 - [Getting started with October CMS and Static Pages - v.2](https://octobercms.com/blog/post/getting-started-october-cms-static-pages-v2)
 - [Running October on AWS - Part 2](https://octobercms.com/blog/post/running-october-aws-part-2)
@@ -219,13 +223,11 @@ Winter CMS is also compatible with most OctoberCMS themes available at https://o
 - [Rapid Application Development with Builder](https://octobercms.com/support/article/ob-12)
 
 #### 2015
-![OctoberCMS v1][oc-v1-label]
 - [Back-end Relations](https://octobercms.com/support/article/ob-11)
 - [Media Manager Introduction](https://octobercms.com/support/article/ob-8)
 - [Building client-friendly websites](https://octobercms.com/blog/post/building-client-friendly-websites)
 
 #### 2014
-![OctoberCMS v1][oc-v1-label]
 - [Extending the User plugin](https://octobercms.com/support/article/ob-10)
 - [Translating Content, Messages and Models](https://octobercms.com/support/article/ob-9)
 - [Static Pages - Content Blocks and Placeholders](https://octobercms.com/blog/post/static-pages-content-blocks-and-placeholders)
