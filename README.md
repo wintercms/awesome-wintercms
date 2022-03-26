@@ -198,6 +198,12 @@ Winter CMS is also compatible with most OctoberCMS themes available at https://o
 - [Introduction on how to create a blog or news website with Winter CMS](https://www.youtube.com/watch?v=Itjy-Bxc0DA)
 - [How to create a personal blog or website with Winter CMS](https://www.youtube.com/watch?v=vsnXc9loxv8)
 
+### 2021:
+- [Basic theming in Winter CMS with Tailwind 3](https://www.youtube.com/watch?v=cMt44IFEhVs)
+- [Setup: Winter theme and Css with Tailwindcss 3.0](https://www.youtube.com/watch?v=813ctpX2p7Y)
+- [Snowflake Plugin for Winter CMS](https://www.youtube.com/watch?v=LefF7tgDENo)
+- [Winter CMS - Introduction and Installation](https://www.youtube.com/watch?v=Qj9GKSkH21k)
+
 #### 2019
 - [Getting started with October CMS and Static Pages - v.2](https://octobercms.com/blog/post/getting-started-october-cms-static-pages-v2)
 - [Running October on AWS - Part 2](https://octobercms.com/blog/post/running-october-aws-part-2)
