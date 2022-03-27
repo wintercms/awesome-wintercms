@@ -188,7 +188,7 @@ Winter CMS is also compatible with most OctoberCMS themes available at https://o
 ### Tools
 
 - [Winter CLI](https://github.com/wintercms/cli)
-- [Web installer]()
+- [Web installer](https://github.com/wintercms/web-installer)
 
 ### Tutorials
 
