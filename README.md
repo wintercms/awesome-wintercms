@@ -66,6 +66,7 @@ Winter CMS is also compatible with most OctoberCMS plugins available at https://
 - [Winter.Passport](https://github.com/wintercms/wn-Passport-plugin) - Laravel Passport integration.
 - [Winter.PwnedPasswords](https://github.com/wintercms/wn-pwnedpasswords-plugin) - Integrates HaveIBeenPwned's leaked password checking API as a password policy.
 - [Winter.Ray](https://github.com/wintercms/wn-Ray-plugin) - Ray developer tool integration.
+- [Winter.Search](https://github.com/wintercms/wn-search-plugin) - Full-text search integration based on Laravel Scout.
 - [Winter.Sentry](https://github.com/wintercms/wn-Sentry-plugin) - Sentry.io integration.
 - [Winter.Sitemap](https://github.com/wintercms/wn-Sitemap-plugin) - Manages sitemap.xml definitions.
 - [Winter.Test](https://github.com/wintercms/wn-Test-plugin) - Playground for features available in Winter CMS.
