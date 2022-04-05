@@ -100,7 +100,7 @@ Winter CMS is also compatible with most OctoberCMS plugins available at https://
 - [JaxWilko.Migrator](https://packagist.org/packages/jaxwilko/datamigrator) - A plugin that converts your database data to flat files.
 - [JaxWilko.MediaStream](https://packagist.org/packages/jaxwilko/wn-mediastream-plugin) - Adds streaming support for html5 videos.
 - [JaxWilko.OpcachePreload](https://packagist.org/packages/jaxwilko/wn-opcachepreload-plugin) - Winter CMS support for opcache preloading.
-- [StudioAzura.BackendUserPlus](https://github.com/mjauvin/wn-backenduserplus-plugin) - Improve Backend User Management.
+
 #### Community
 - [Aic.Faq](https://github.com/AIC-BV/wn-faq-plugin) - Create (multilingual) FAQs and assign them to categories.
 - [Asped.BlogProtect](https://packagist.org/packages/asped/wn-blogprotect-plugin) - Adds permissions to the blog posts.
@@ -148,7 +148,8 @@ Winter CMS is also compatible with most OctoberCMS plugins available at https://
 - [Skripteria.SiteSearch](https://packagist.org/packages/skripteria/wn-site-search-plugin) - Provides global search for the frontend.
 - [StudioBosco.BackendNotifications](https://packagist.org/packages/studiobosco/wn-backendnotifications-plugin) - API & UI for managing backend notifications.
 - [StudioBosco.BackendComments](https://packagist.org/packages/studiobosco/wn-backendcomments-plugin) - Provides commenting in the backend.
-- [StudioAzura.FAQ](https://github.com/mjauvin/wn-faq-plugin) - Manage Q&As
+- [StudioAzura.BackendUserPlus](https://github.com/mjauvin/wn-backenduserplus-plugin) - Improve Backend User Management.
+- [StudioAzura.FAQ](https://github.com/mjauvin/wn-faq-plugin) - Manage Q&As.
 - [StudioBosco.PagePreview](https://packagist.org/packages/studiobosco/wn-pagepreview-plugin) - Adds realtime preview button to StaticPage pages.
 - [StudioBosco.SEO](https://packagist.org/packages/studiobosco/wn-seo-extension) - SEO plugin.
 - [SunLab.UpDown](https://packagist.org/packages/sunlab/wn-updown-plugin) - Allows your users to up/down-vote any models.
