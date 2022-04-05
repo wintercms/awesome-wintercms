@@ -100,6 +100,7 @@ Winter CMS is also compatible with most OctoberCMS plugins available at https://
 - [JaxWilko.Migrator](https://packagist.org/packages/jaxwilko/datamigrator) - A plugin that converts your database data to flat files.
 - [JaxWilko.MediaStream](https://packagist.org/packages/jaxwilko/wn-mediastream-plugin) - Adds streaming support for html5 videos.
 - [JaxWilko.OpcachePreload](https://packagist.org/packages/jaxwilko/wn-opcachepreload-plugin) - Winter CMS support for opcache preloading.
+- [LucaCalcaterra.LdapAuth](https://github.com/lucacalcaterra/wn-ldapauth-plugin) - LDAP Authentication for Winter CMS.
 - Marc Jauvin - [StudioAzura.BackendUserPlus](https://github.com/mjauvin/wn-backenduserplus-plugin) - Improve Backend User Management.
 - Marc Jauvin - [StudioAzura.FAQ](https://github.com/mjauvin/wn-faq-plugin) - Manage Q&As.
 
