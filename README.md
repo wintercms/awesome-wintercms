@@ -53,6 +53,12 @@ Winter CMS is also compatible with most OctoberCMS plugins available at https://
 - [Winter.Builder](https://github.com/wintercms/wn-Builder-plugin) - GUI for building Winter CMS plugins.
 - [Winter.DebugBar](https://github.com/wintercms/wn-DebugBar-plugin) - DebugBar integration.
 - [Winter.Docs](https://github.com/wintercms/wn-Docs-plugin) - Manage & view documentation directly within your Winter CMS instances.
+- [Winter.DriverAWS](https://github.com/wintercms/wn-aws-plugin) - Driver that adds support for the Amazon SES mailer.
+- [Winter.DriverMailgun](https://github.com/wintercms/wn-mailgun-plugin) - Driver that adds support for the Mailgun mailer.
+- [Winter.DriverMandril](https://github.com/wintercms/wn-mandril-plugin) - Driver that adds support for the Mandril mailer.
+- [Winter.DriverPostmark](https://github.com/wintercms/wn-postmark-plugin) - Driver that adds support for the Postmark mailer.
+- [Winter.DriverSendGrid](https://github.com/wintercms/wn-sendgrid-plugin) - Driver that adds support for the SendGrid mailer.
+- [Winter.DriverSparkPost](https://github.com/wintercms/wn-sparkpost-plugin) - Driver that adds support for the SparkPost mailer.
 - [Winter.Dusk](https://github.com/wintercms/wn-Dusk-plugin) - Laravel Dusk integration (headless browser based integration testing suites).
 - [Winter.Forum](https://github.com/wintercms/wn-Forum-plugin) - Robust forum platform.
 - [Winter.GoogleAnalytics](https://github.com/wintercms/wn-GoogleAnalytics-plugin) - Google Analytics integration.
