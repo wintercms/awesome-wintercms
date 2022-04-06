@@ -131,6 +131,7 @@ Winter CMS is also compatible with most OctoberCMS plugins available at https://
 - [Imateo.Dump](https://packagist.org/packages/imateo/wn-dump-plugin) - Winter CMS twig dump.
 - [JosephCrowell.SitemapPretty](https://packagist.org/packages/josephcrowell/wn-sitemappretty-plugin) - Pretty up the sitemap.xml provided by Winter.Sitemap
 - [JosephCrowell.Passage](https://packagist.org/packages/josephcrowell/wn-passage-plugin) - Fast, Efficient permission system for controlling access to your website resources.
+- [LucaCalcaterra.LdapAuth](https://github.com/lucacalcaterra/wn-ldapauth-plugin) - LDAP Active Directory Authentication for Winter CMS.
 - [Mahony0.Floc](https://packagist.org/packages/mahony0/wn-floc-plugin) - Provides middleware to disable FLoC.
 - [Mahony0.Updater](https://packagist.org/packages/mahony0/wn-updater-plugin) - Update WinterCMS via remote command.
 - [Martin.Forms](https://packagist.org/packages/martin/wn-forms-plugin) - Create easy (and almost magic) AJAX forms
