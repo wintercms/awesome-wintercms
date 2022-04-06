@@ -100,7 +100,6 @@ Winter CMS is also compatible with most OctoberCMS plugins available at https://
 - [JaxWilko.Migrator](https://packagist.org/packages/jaxwilko/datamigrator) - A plugin that converts your database data to flat files.
 - [JaxWilko.MediaStream](https://packagist.org/packages/jaxwilko/wn-mediastream-plugin) - Adds streaming support for html5 videos.
 - [JaxWilko.OpcachePreload](https://packagist.org/packages/jaxwilko/wn-opcachepreload-plugin) - Winter CMS support for opcache preloading.
-- [LucaCalcaterra.LdapAuth](https://github.com/lucacalcaterra/wn-ldapauth-plugin) - LDAP Authentication for Winter CMS.
 - Marc Jauvin - [StudioAzura.BackendUserPlus](https://github.com/mjauvin/wn-backenduserplus-plugin) - Improve Backend User Management.
 - Marc Jauvin - [StudioAzura.FAQ](https://github.com/mjauvin/wn-faq-plugin) - Manage Q&As.
 
@@ -126,6 +125,7 @@ Winter CMS is also compatible with most OctoberCMS plugins available at https://
 - [Imateo.Dump](https://packagist.org/packages/imateo/wn-dump-plugin) - Winter CMS twig dump.
 - [JosephCrowell.SitemapPretty](https://packagist.org/packages/josephcrowell/wn-sitemappretty-plugin) - Pretty up the sitemap.xml provided by Winter.Sitemap
 - [JosephCrowell.Passage](https://packagist.org/packages/josephcrowell/wn-passage-plugin) - Fast, Efficient permission system for controlling access to your website resources.
+- [LucaCalcaterra.LdapAuth](https://github.com/lucacalcaterra/wn-ldapauth-plugin) - LDAP Active Directory Authentication for Winter CMS.
 - [Mahony0.Floc](https://packagist.org/packages/mahony0/wn-floc-plugin) - Provides middleware to disable FLoC.
 - [Mahony0.Updater](https://packagist.org/packages/mahony0/wn-updater-plugin) - Update WinterCMS via remote command.
 - [Martin.Forms](https://packagist.org/packages/martin/wn-forms-plugin) - Create easy (and almost magic) AJAX forms
