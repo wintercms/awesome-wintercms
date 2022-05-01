@@ -158,6 +158,7 @@ Winter CMS is also compatible with most OctoberCMS plugins available at https://
 - [Skripteria.SiteSearch](https://packagist.org/packages/skripteria/wn-site-search-plugin) - Provides global search for the frontend.
 - [StudioBosco.BackendNotifications](https://packagist.org/packages/studiobosco/wn-backendnotifications-plugin) - API & UI for managing backend notifications.
 - [StudioBosco.BackendComments](https://packagist.org/packages/studiobosco/wn-backendcomments-plugin) - Provides commenting in the backend.
+- [StudioBosco.KlaroCookieConsent](https://packagist.org/packages/studiobosco/wn-klarocookieconsent-plugin) - Klaro Cookie Consent plugin.
 - [StudioBosco.PagePreview](https://packagist.org/packages/studiobosco/wn-pagepreview-plugin) - Adds realtime preview button to StaticPage pages.
 - [StudioBosco.SEO](https://packagist.org/packages/studiobosco/wn-seo-extension) - SEO plugin.
 - [SunLab.UpDown](https://packagist.org/packages/sunlab/wn-updown-plugin) - Allows your users to up/down-vote any models.
