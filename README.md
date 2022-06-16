@@ -109,6 +109,7 @@ Winter CMS is also compatible with most OctoberCMS plugins available at https://
 - [JaxWilko.OpcachePreload](https://packagist.org/packages/jaxwilko/wn-opcachepreload-plugin) - Winter CMS support for opcache preloading.
 - Marc Jauvin - [StudioAzura.BackendUserPlus](https://github.com/mjauvin/wn-backenduserplus-plugin) - Improve Backend User Management.
 - Marc Jauvin - [StudioAzura.FAQ](https://github.com/mjauvin/wn-faq-plugin) - Manage Q&As.
+- Marc Jauvin - [StudioAzura.MLSitemap](https://github.com/mjauvin/wn-mlsitemap-plugin) - Multi-lingual add-on for Winter.Sitemap plugin.
 
 #### Community
 - [Aic.Faq](https://github.com/AIC-BV/wn-faq-plugin) - Create (multilingual) FAQs and assign them to categories.
