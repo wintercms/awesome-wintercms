@@ -189,6 +189,7 @@ Winter CMS is also compatible with most OctoberCMS themes available at https://o
 
 - [Bonjour](https://github.com/wintercms/wn-bonjour-theme) - A sample multi-lingual theme for translated content.
 - [Workshop](https://packagist.org/packages/winter/wn-workshop-theme) - Tailwind CSS based theme that integrates with every first party plugin as a testing platform.
+- [Nabu](https://github.com/wintercms/wn-nabu-theme) - An elegant TailwindCSS based theme designed for documentation sites using the Winter.Docs plugin.
 
 #### Community
 - [ViteTailwind](https://packagist.org/packages/marcomessa/wn-vite-tailwind-theme) - A starter blank theme powered by Vite and TailwindCSS.
