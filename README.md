@@ -49,39 +49,40 @@
 Winter CMS is also compatible with most OctoberCMS plugins available at https://octobercms.com/plugins
 
 #### First Party
-- [Winter.Blog](https://github.com/wintercms/wn-Blog-plugin) - Robust blogging platform.
-- [Winter.Builder](https://github.com/wintercms/wn-Builder-plugin) - GUI for building Winter CMS plugins.
-- [Winter.DebugBar](https://github.com/wintercms/wn-DebugBar-plugin) - DebugBar integration.
-- [Winter.Docs](https://github.com/wintercms/wn-Docs-plugin) - Manage & view documentation directly within your Winter CMS instances.
+- [Winter.Blog](https://github.com/wintercms/wn-blog-plugin) - Robust blogging platform.
+- [Winter.Builder](https://github.com/wintercms/wn-builder-plugin) - GUI for building Winter CMS plugins.
+- [Winter.DebugBar](https://github.com/wintercms/wn-debugbar-plugin) - DebugBar integration.
+- [Winter.Docs](https://github.com/wintercms/wn-docs-plugin) - Manage & view documentation directly within your Winter CMS instances.
 - [Winter.DriverAWS](https://github.com/wintercms/wn-driveraws-plugin) - Driver that adds support for the Amazon SES mailer.
 - [Winter.DriverMailgun](https://github.com/wintercms/wn-drivermailgun-plugin) - Driver that adds support for the Mailgun mailer.
 - [Winter.DriverMandrill](https://github.com/wintercms/wn-drivermandrill-plugin) - Driver that adds support for the Mandrill mailer.
 - [Winter.DriverPostmark](https://github.com/wintercms/wn-driverpostmark-plugin) - Driver that adds support for the Postmark mailer.
 - [Winter.DriverSendGrid](https://github.com/wintercms/wn-driversendgrid-plugin) - Driver that adds support for the SendGrid mailer.
 - [Winter.DriverSparkPost](https://github.com/wintercms/wn-driversparkpost-plugin) - Driver that adds support for the SparkPost mailer.
-- [Winter.Dusk](https://github.com/wintercms/wn-Dusk-plugin) - Laravel Dusk integration (headless browser based integration testing suites).
-- [Winter.Forum](https://github.com/wintercms/wn-Forum-plugin) - Robust forum platform.
-- [Winter.GoogleAnalytics](https://github.com/wintercms/wn-GoogleAnalytics-plugin) - Google Analytics integration.
-- [Winter.Ignition](https://github.com/wintercms/wn-Ignition-plugin) - Ignition error page integration.
-- [Winter.Location](https://github.com/wintercms/wn-Location-plugin) - Provides location data (Countries & States) for use by other plugins.
-- [Winter.Mailchimp](https://github.com/wintercms/wn-Mailchimp-plugin) - Mailchimp integration.
-- [Winter.Matomo](https://github.com/wintercms/wn-Matomo-plugin) - Matomo Analytics integration.
-- [Winter.Notes](https://github.com/wintercms/wn-Notes-plugin) - Mac OS like experience for managing "notes" for any record.
-- [Winter.Notify](https://github.com/wintercms/wn-Notify-plugin) - Notification management engine.
-- [Winter.Pages](https://github.com/wintercms/wn-Pages-plugin) - Client friendly static page management.
-- [Winter.Passport](https://github.com/wintercms/wn-Passport-plugin) - Laravel Passport integration.
+- [Winter.Dusk](https://github.com/wintercms/wn-dusk-plugin) - Laravel Dusk integration (headless browser based integration testing suites).
+- [Winter.Forum](https://github.com/wintercms/wn-forum-plugin) - Robust forum platform.
+- [Winter.GoogleAnalytics](https://github.com/wintercms/wn-googleanalytics-plugin) - Google Analytics integration.
+- [Winter.Ignition](https://github.com/wintercms/wn-ignition-plugin) - Ignition error page integration.
+- [Winter.Location](https://github.com/wintercms/wn-location-plugin) - Provides location data (Countries & States) for use by other plugins.
+- [Winter.Mailchimp](https://github.com/wintercms/wn-mailchimp-plugin) - Mailchimp integration.
+- [Winter.Matomo](https://github.com/wintercms/wn-matomo-plugin) - Matomo Analytics integration.
+- [Winter.Notes](https://github.com/wintercms/wn-notes-plugin) - Mac OS like experience for managing "notes" for any record.
+- [Winter.Notify](https://github.com/wintercms/wn-notify-plugin) - Notification management engine.
+- [Winter.Pages](https://github.com/wintercms/wn-pages-plugin) - Client friendly static page management.
+- [Winter.Passport](https://github.com/wintercms/wn-passport-plugin) - Laravel Passport integration.
 - [Winter.PwnedPasswords](https://github.com/wintercms/wn-pwnedpasswords-plugin) - Integrates HaveIBeenPwned's leaked password checking API as a password policy.
-- [Winter.Ray](https://github.com/wintercms/wn-Ray-plugin) - Ray developer tool integration.
+- [Winter.Ray](https://github.com/wintercms/wn-ray-plugin) - Ray developer tool integration.
 - [Winter.Redirect](https://github.com/wintercms/wn-redirect-plugin) - Powerful Redirect management.
 - [Winter.Search](https://github.com/wintercms/wn-search-plugin) - Full-text search integration based on Laravel Scout.
-- [Winter.Sentry](https://github.com/wintercms/wn-Sentry-plugin) - Sentry.io integration.
-- [Winter.Sitemap](https://github.com/wintercms/wn-Sitemap-plugin) - Manages sitemap.xml definitions.
-- [Winter.Test](https://github.com/wintercms/wn-Test-plugin) - Playground for features available in Winter CMS.
-- [Winter.TinyPNG](https://github.com/wintercms/wn-TinyPNG-plugin) - TinyPNG integration with the built-in ImageResizer.
-- [Winter.Translate](https://github.com/wintercms/wn-Translate-plugin) - Frontend localization for all records.
-- [Winter.Twitter](https://github.com/wintercms/wn-Twitter-plugin) - Twitter integration.
-- [Winter.User](https://github.com/wintercms/wn-User-plugin) - Frontend user management.
-- [Winter.UserPlus](https://github.com/wintercms/wn-UserPlus-plugin) - Demonstration of how to dynamically extend other plugins.
+- [Winter.Sentry](https://github.com/wintercms/wn-sentry-plugin) - Sentry.io integration.
+- [Winter.Sitemap](https://github.com/wintercms/wn-sitemap-plugin) - Manages sitemap.xml definitions.
+- [Winter.TailwindUI](https://github.com/wintercms/wn-tailwindui-plugin) - Provides a modern backend skin based on Tailwind UI.
+- [Winter.Test](https://github.com/wintercms/wn-test-plugin) - Playground for features available in Winter CMS.
+- [Winter.TinyPNG](https://github.com/wintercms/wn-tinypng-plugin) - TinyPNG integration with the built-in ImageResizer.
+- [Winter.Translate](https://github.com/wintercms/wn-translate-plugin) - Frontend localization for all records.
+- [Winter.Twitter](https://github.com/wintercms/wn-twitter-plugin) - Twitter integration.
+- [Winter.User](https://github.com/wintercms/wn-user-plugin) - Frontend user management.
+- [Winter.UserPlus](https://github.com/wintercms/wn-userplus-plugin) - Demonstration of how to dynamically extend other plugins.
 
 #### By the Maintainers
 - [LukeTowers.AzureADSSO](https://github.com/LukeTowers/oc-azureadsso-plugin) - Adds support for logging into the backend with Azure Active Directory Single Sign On (SSO) OAuth.
