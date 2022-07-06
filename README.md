@@ -174,6 +174,7 @@ Winter CMS is also compatible with most OctoberCMS plugins available at https://
 - [SunLab.EmojiPicker](https://packagist.org/packages/sunlab/wn-emojipicker-plugin) - Provides an Emoji Picker form widget.
 - [SunLab.EmojiForBlog](https://packagist.org/packages/sunlab/wn-emojiforblog-plugin) - Integrates the EmojiPicker formwidget with Winter.Blog.
 - [Teranode.ApplicationCore](https://packagist.org/packages/teranode/wn-application-core-plugin) - Laravel class loader plugin for Winter CMS.
+- [WebVPF.Robots](https://packagist.org/packages/webvpf/wn-robots-plugin) - Adds robots.txt for your site.
 - [WebVPF.ShareButtons](https://packagist.org/packages/webvpf/wn-share-plugin) - Displays share buttons.
 - [WebVPF.Christmas](https://packagist.org/packages/webvpf/wn-christmas-plugin) - Christmas plugin for Winter CMS.
 - [WebVPF.DarkBackend](https://packagist.org/packages/webvpf/wn-darkbackend-plugin) - Dark theme backend skin.
