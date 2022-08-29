@@ -53,7 +53,7 @@ Winter CMS is also compatible with most OctoberCMS plugins available at https://
 - [Winter.Builder](https://github.com/wintercms/wn-builder-plugin) - GUI for building Winter CMS plugins.
 - [Winter.DebugBar](https://github.com/wintercms/wn-debugbar-plugin) - DebugBar integration.
 - [Winter.Docs](https://github.com/wintercms/wn-docs-plugin) - Manage & view documentation directly within your Winter CMS instances.
-- [Winter.DriverAWS](https://github.com/wintercms/wn-driveraws-plugin) - Driver that adds support for the Amazon SES mailer.
+- [Winter.DriverAWS](https://github.com/wintercms/wn-driveraws-plugin) - Driver that adds support for AWS (S3 storage driver & streamed uploads, SQS queues, DynamoDB, SES mail driver).
 - [Winter.DriverMailgun](https://github.com/wintercms/wn-drivermailgun-plugin) - Driver that adds support for the Mailgun mailer.
 - [Winter.DriverMandrill](https://github.com/wintercms/wn-drivermandrill-plugin) - Driver that adds support for the Mandrill mailer.
 - [Winter.DriverPostmark](https://github.com/wintercms/wn-driverpostmark-plugin) - Driver that adds support for the Postmark mailer.
@@ -75,6 +75,7 @@ Winter CMS is also compatible with most OctoberCMS plugins available at https://
 - [Winter.Redirect](https://github.com/wintercms/wn-redirect-plugin) - Powerful Redirect management.
 - [Winter.Search](https://github.com/wintercms/wn-search-plugin) - Full-text search integration based on Laravel Scout.
 - [Winter.Sentry](https://github.com/wintercms/wn-sentry-plugin) - Sentry.io integration.
+- [Winter.SEO](https://github.com/wintercms/wn-seo-plugin) - Easily manage SEO metadata.
 - [Winter.Sitemap](https://github.com/wintercms/wn-sitemap-plugin) - Manages sitemap.xml definitions.
 - [Winter.TailwindUI](https://github.com/wintercms/wn-tailwindui-plugin) - Provides a modern backend skin based on Tailwind UI.
 - [Winter.Test](https://github.com/wintercms/wn-test-plugin) - Playground for features available in Winter CMS.
@@ -145,6 +146,7 @@ Winter CMS is also compatible with most OctoberCMS plugins available at https://
 - [Mercator.Passwordless](https://packagist.org/packages/mercator/wn-passwordless-plugin) - Passwordless frontend login for Winter.User users.
 - [Mercator.SecretPage](https://packagist.org/packages/mercator/wn-secretpage-plugin) - Password-protection of individual CMS or Winter Static Pages.
 - [Mercator.ThemeUpdater](https://packagist.org/packages/mercator/wn-themeupdater-plugin) - Winter CMS Theme Updater Plugin.
+- [Mercator.TwigExt](https://packagist.org/packages/mercator/wn-twigext-plugin) - Provides several Twig filters and functions.
 - [MikP.Auth0Login](https://packagist.org/packages/mikp/wn-auth0login-plugin) - Auth0 login extension to Social Login plugin.
 - [MikP.OpenIDConnect](https://packagist.org/packages/mikp/wn-openidconnect-plugin) - OpenID Connect extension to Social Login plugin.
 - [MikP.SanctumTokens](https://packagist.org/packages/mikp/wn-sanctum-tokens-plugin) - Integrates Laravel Sanctum.
