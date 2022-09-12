@@ -177,6 +177,7 @@ Winter CMS is also compatible with most OctoberCMS plugins available at https://
 - [SunLab.GamificationPermissions](https://packagist.org/packages/sunlab/wn-gamification-permissions-plugin) - Assign permissions to gamification plugin.
 - [SunLab.EmojiPicker](https://packagist.org/packages/sunlab/wn-emojipicker-plugin) - Provides an Emoji Picker form widget.
 - [SunLab.EmojiForBlog](https://packagist.org/packages/sunlab/wn-emojiforblog-plugin) - Integrates the EmojiPicker formwidget with Winter.Blog.
+- [SunLab.ForumUpload](https://packagist.org/packages/sunlab/wn-forumupload-plugin) - Adds files upload feature to Winter.Forum.
 - [Teranode.ApplicationCore](https://packagist.org/packages/teranode/wn-application-core-plugin) - Laravel class loader plugin for Winter CMS.
 - [WebVPF.Robots](https://packagist.org/packages/webvpf/wn-robots-plugin) - Adds robots.txt for your site.
 - [WebVPF.ShareButtons](https://packagist.org/packages/webvpf/wn-share-plugin) - Displays share buttons.
