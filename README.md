@@ -51,6 +51,7 @@ Winter CMS is also compatible with most OctoberCMS plugins available at https://
 #### First Party
 - [Winter.Blog](https://github.com/wintercms/wn-blog-plugin) - Robust blogging platform.
 - [Winter.Builder](https://github.com/wintercms/wn-builder-plugin) - GUI for building Winter CMS plugins.
+- [Winter.Cloudflare](https://github.com/wintercms/wn-cloudflare-plugin) - Ensures expected behavior when Cloudflare is used with Winter CMS.
 - [Winter.DebugBar](https://github.com/wintercms/wn-debugbar-plugin) - DebugBar integration.
 - [Winter.Docs](https://github.com/wintercms/wn-docs-plugin) - Manage & view documentation directly within your Winter CMS instances.
 - [Winter.DriverAWS](https://github.com/wintercms/wn-driveraws-plugin) - Driver that adds support for AWS (S3 storage driver & streamed uploads, SQS queues, DynamoDB, SES mail driver).
