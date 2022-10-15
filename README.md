@@ -95,7 +95,6 @@ Winter CMS is also compatible with most OctoberCMS plugins available at https://
 - [LukeTowers.EasyForms](https://github.com/luketowers) - $50 - Paid plugin available on request that provides a GravityForms like experience for frontend forms.
 - [LukeTowers.EasySPA](https://github.com/LukeTowers/oc-easyspa-plugin) - $30 - Paid plugin that enables frontend page navigation over AJAX bringing SPA-like performance to navigating between pages.
 - [LukeTowers.EEImport](https://github.com/LukeTowers/oc-eeimport-plugin) - Provides tools to import data directly from an ExpressionEngine database.
-- [LukeTowers.EezeAuth](https://github.com/LukeTowers/oc-eezeauth-plugin) - Integrates with eeze.io.
 - [LukeTowers.EFPDF](https://github.com/LukeTowers/oc-efpdf-plugin) - Generate PDFs from form submissions for the LukeTowers.EasyForms plugin.
 - [LukeTowers.EssentialVars](https://github.com/LukeTowers/oc-essentialvars-plugin) - Adds the `app_[url|logo|favicon|name|debug|description]` variables to Mail & CMS templates.
 - [LukeTowers.FileLocker](https://github.com/LukeTowers/oc-filelocker-plugin-issues) - $50 - Private, easy to use, file manager that provides access to authenticated users only.
