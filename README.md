@@ -118,8 +118,6 @@ Winter CMS is also compatible with most OctoberCMS plugins available at https://
 - [Aic.Faq](https://github.com/AIC-BV/wn-faq-plugin) - Create (multilingual) FAQs and assign them to categories.
 - [Asped.BlogProtect](https://packagist.org/packages/asped/wn-blogprotect-plugin) - Adds permissions to the blog posts.
 - [ByteMethod.Blizzard](https://packagist.org/packages/bytemethod/wn-blizzard-plugin) - A collection of extensions and helpers for Winter CMS.
-- [CreativeSizzle.Redirect](https://packagist.org/packages/creative-sizzle/wn-redirect-plugin) - Advanced redirect plugin
-- [CreativeSizzle.TwigExtensions](https://packagist.org/packages/creative-sizzle/wn-twigextensions-plugin) - Register more Twig filters for your Winter CMS templates.
 - [Dimsog.Blog](https://packagist.org/packages/dimsog/wn-blog-plugin) - A simple blog plugin for WinterCMS.
 - [Dimsog.Comments](https://packagist.org/packages/dimsog/wn-comments-plugin) - Add comments to any page on your site.
 - [Dimsog.Slider](https://packagist.org/packages/dimsog/wn-slider-plugin) - Swiper slider for WinterCMS.
