@@ -206,6 +206,7 @@ Winter CMS is also compatible with most OctoberCMS themes available at https://o
 
 ### Tools
 
+- [Official Winter CMS VSCode Extension](https://marketplace.visualstudio.com/items?itemName=wintercms.winter-cms) ([Github](https://github.com/wintercms/vscode-extension))
 - [Winter CLI](https://github.com/wintercms/cli)
 - [Web installer](https://github.com/wintercms/web-installer)
 
