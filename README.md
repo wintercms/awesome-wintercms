@@ -12,14 +12,8 @@
 - [Plugins](#plugins)
 - [Themes](#themes)
 - [Tools](#tools)
+- [Projects Using Winter CMS (Showcase)](#showcase)
 - [Tutorials](#tutorials)
-- [Mentions](#mentions)
-- [Blogs](#blogs)
-- [Docker](#docker)
-- [Official Examples](#official-examples)
-- [Community Examples](#community-examples)
-- [Open source projects using WinterCMS](#open-source-projects-using-wintercms)
-- [Projects Using WinterCMS](#projects-using-wintercms)
 
 ### Latest News
 - [View the blog](https://wintercms.com/blog/latest) for the latest updates.
@@ -41,8 +35,6 @@
 - [Twitter](https://twitter.com/usewintercms)
 - [Facebook](https://www.facebook.com/wintercms/)
 - [Reddit](https://reddit.com/r/wintercms)
-- [Telegram, Brazilian community]()
-- [Telegram, Russian community]()
 
 ### Plugins
 
@@ -210,6 +202,36 @@ Winter CMS is also compatible with most OctoberCMS themes available at https://o
 - [Winter CLI](https://github.com/wintercms/cli)
 - [Web installer](https://github.com/wintercms/web-installer)
 
+### Showcase
+
+- https://34aircadets.ca
+- https://acte.ltd/
+- https://barrymarries.com/
+- https://bbkeng.ca/
+- https://cityofroseburg.org/
+- https://computerlink.com.au/
+- https://cushionhouseaustralia.com.au/
+- https://dth-herzzentrum.ch/en
+- https://godotengine.org/
+- https://gregorybrown.com.br/
+- https://iacea.com
+- https://michaeltowers.ca/
+- https://nas.org
+- https://newcriterion.com
+- https://oldparr.co/
+- https://opendays2022.polito.it/
+- https://reportneedles.ca
+- https://salvomag.com/
+- https://spatialmedia.io/
+- https://wintercms.com/
+- https://www.faselunare.com/
+- https://www.murprotec.fr/
+- https://www.nationalaffairs.com/
+- https://www.popandsmart.fr/
+- https://www.shrmsk.com/
+- https://www.soundmit.com/en
+- https://www.westridge.ca/
+
 ### Tutorials
 
 **Tutorials published in:**
@@ -262,22 +284,3 @@ Winter CMS is also compatible with most OctoberCMS themes available at https://o
 - [Building a simple weather plugin](https://octobercms.com/blog/post/building-the-weather-plugin)
 - [Building a blog and forum](https://octobercms.com/blog/post/building-a-blog-and-forum)
 - [Introduction to October](https://octobercms.com/support/article/ob-7)
-
-### Winter CMS in the media:
-
--
-
-### Blogs
-
-### Open source projects using Winter
-
-- https://godotengine.org/
-
-### Projects using Winter
-
--
-
-> Please don't hesitate to make a PR if you have more resources to share.
-
-## License
-[MIT license](https://opensource.org/licenses/MIT)
