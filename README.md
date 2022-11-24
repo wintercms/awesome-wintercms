@@ -98,7 +98,6 @@ Winter CMS is also compatible with most OctoberCMS plugins available at https://
 - [LukeTowers.TwigPCRE](https://github.com/LukeTowers/oc-twigpcre-plugin) - Adds Twig PCRE Filters / Functions.
 - [BennoThommo.UrlNormaliser](https://packagist.org/packages/bennothommo/wn-urlnormaliser-plugin) - Normalise URLs for your Winter CMS website and ensure that search engines only index your canonical paths to prevent duplicate content.
 - [BennoThommo.Meta](https://packagist.org/packages/bennothommo/wn-meta-plugin) - Provides an easy interface to insert HTML meta and link tags into a Winter CMS layout or page.
-- [BennoThommo.LazyLoad](https://packagist.org/packages/bennothommo/wn-lazy-load-plugin) - Lazy loads images by default in Winter CMS.
 - [JaxWilko.Migrator](https://packagist.org/packages/jaxwilko/datamigrator) - A plugin that converts your database data to flat files.
 - [JaxWilko.MediaStream](https://packagist.org/packages/jaxwilko/wn-mediastream-plugin) - Adds streaming support for html5 videos.
 - [JaxWilko.OpcachePreload](https://packagist.org/packages/jaxwilko/wn-opcachepreload-plugin) - Winter CMS support for opcache preloading.
