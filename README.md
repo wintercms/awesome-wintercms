@@ -171,6 +171,7 @@ Winter CMS is also compatible with most OctoberCMS plugins available at https://
 - [Teranode.ApplicationCore](https://packagist.org/packages/teranode/wn-application-core-plugin) - Laravel class loader plugin for Winter CMS.
 - [WebVPF.Robots](https://packagist.org/packages/webvpf/wn-robots-plugin) - Adds robots.txt for your site.
 - [WebVPF.DashboardWidgets](https://packagist.org/packages/webvpf/wn-dashboardwidgets-plugin) - A collection of report widgets for the Winter CMS dashboard.
+- [WebVPF.FullScreen](https://packagist.org/packages/webvpf/wn-fullscreen-plugin) - Adds a Full Screen button to the backend toolbar.
 - [WebVPF.ShareButtons](https://packagist.org/packages/webvpf/wn-share-plugin) - Displays share buttons.
 - [WebVPF.Christmas](https://packagist.org/packages/webvpf/wn-christmas-plugin) - Christmas plugin for Winter CMS.
 - [WebVPF.DarkBackend](https://packagist.org/packages/webvpf/wn-darkbackend-plugin) - Dark theme backend skin.
