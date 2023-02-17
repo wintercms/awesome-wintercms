@@ -41,6 +41,7 @@
 Winter CMS is also compatible with most OctoberCMS plugins available at https://octobercms.com/plugins
 
 #### First Party
+- [Winter.Blocks](https://github.com/wintercms/wn-blocks-plugin) - Provides a "block based" content management experience.
 - [Winter.Blog](https://github.com/wintercms/wn-blog-plugin) - Robust blogging platform.
 - [Winter.Builder](https://github.com/wintercms/wn-builder-plugin) - GUI for building Winter CMS plugins.
 - [Winter.CKEditor](https://github.com/wintercms/wn-ckeditor-plugin) - Adds the CKEditor v4 WYSIWYG HTML editor as a FormWidget in the Winter CMS backend.
@@ -71,6 +72,7 @@ Winter CMS is also compatible with most OctoberCMS plugins available at https://
 - [Winter.Sentry](https://github.com/wintercms/wn-sentry-plugin) - Sentry.io integration.
 - [Winter.SEO](https://github.com/wintercms/wn-seo-plugin) - Easily manage SEO metadata.
 - [Winter.Sitemap](https://github.com/wintercms/wn-sitemap-plugin) - Manages sitemap.xml definitions.
+- [Winter.SSO](https://github.com/wintercms/wn-sso-plugin) - Adds support for OAuth-based Single Sign On (SSO) to the backend module through the use of Laravel Socialiate.
 - [Winter.TailwindUI](https://github.com/wintercms/wn-tailwindui-plugin) - Provides a modern backend skin based on Tailwind UI.
 - [Winter.Test](https://github.com/wintercms/wn-test-plugin) - Playground for features available in Winter CMS.
 - [Winter.TinyPNG](https://github.com/wintercms/wn-tinypng-plugin) - TinyPNG integration with the built-in ImageResizer.
@@ -213,6 +215,7 @@ Winter CMS is also compatible with most OctoberCMS themes available at https://o
 - https://cityofroseburg.org/
 - https://communityanalytics.io/
 - https://computerlink.com.au/
+- https://coeursdechiens.ch/
 - https://cushionhouseaustralia.com.au/
 - https://dth-herzzentrum.ch/en
 - https://godotengine.org/
