@@ -28,6 +28,7 @@
 ### External Resources
 
 - [Winter Tricks](https://wintertricks.com/) - User submitted tips & tricks
+- [Chinese Documentation](https://docs.wpjs.cc/) - Community managed translation of the Winter CMS documentation in Chinese
 
 ### Community
 
