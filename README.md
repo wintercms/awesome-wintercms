@@ -224,6 +224,7 @@ Winter CMS is also compatible with most OctoberCMS themes available at https://o
 - https://gregorybrown.com.br/
 - https://iacea.com
 - https://isoi.tech/es
+- https://maatkastenonline.be/en
 - https://michaeltowers.ca/
 - https://myscape.co.zm/
 - https://nas.org
