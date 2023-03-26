@@ -235,6 +235,7 @@ Winter CMS is also compatible with most OctoberCMS themes available at https://o
 - https://reportneedles.ca
 - https://salvomag.com/
 - https://spatialmedia.io/
+- https://spotandserve.ca/
 - https://wintercms.com/
 - https://www.bienalkaczwa.cz/
 - https://www.faselunare.com/
