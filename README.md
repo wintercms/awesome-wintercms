@@ -127,7 +127,7 @@ Winter CMS is also compatible with most OctoberCMS plugins available at https://
 - [Houndd.Tawkto](https://packagist.org/packages/hounddd/wn-tawkto-plugin) - TawkTo chat plugin for WinterCMS.
 - [Imateo.Dump](https://packagist.org/packages/imateo/wn-dump-plugin) - Winter CMS twig dump.
 - [JosephCrowell.LeafletMap](https://packagist.org/packages/josephcrowell/wn-leafletmap-plugin) - Leaflet Maps plugin for Winter CMS.
-- [JosephCrowell.MagicForms](https://packagist.org/packages/josephcrowell/wn-magicforms-plugin) - Create easy (and almost magic) AJAX forms for Winter CMS.
+- [JosephCrowell.MagicForms](https://packagist.org/packages/josephcrowell/wn-magicforms-plugin) - Create easy (and almost magic) AJAX forms for Winter CMS. Fork of Martin.Forms.
 - [JosephCrowell.SitemapPretty](https://packagist.org/packages/josephcrowell/wn-sitemappretty-plugin) - Pretty up the sitemap.xml provided by Winter.Sitemap
 - [JosephCrowell.Passage](https://packagist.org/packages/josephcrowell/wn-passage-plugin) - Fast, Efficient permission system for controlling access to your website resources.
 - [LucaCalcaterra.LdapAuth](https://packagist.org/packages/lucacalcaterra/wn-ldap-plugin) - LDAP Active Directory Authentication for Winter CMS.
