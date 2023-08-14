@@ -50,12 +50,14 @@ Winter CMS is also compatible with most OctoberCMS plugins available at https://
 - [Winter.DebugBar](https://github.com/wintercms/wn-debugbar-plugin) - DebugBar integration.
 - [Winter.Docs](https://github.com/wintercms/wn-docs-plugin) - Manage & view documentation directly within your Winter CMS instances.
 - [Winter.DriverAWS](https://github.com/wintercms/wn-driveraws-plugin) - Driver that adds support for AWS (S3 storage driver & streamed uploads, SQS queues, DynamoDB, SES mail driver).
+- [Winter.DriverGoogleDrive](https://github.com/wintercms/wn-drivergoogledrive-plugin) - Driver that adds support for Google Drive as a filesystem to Winter CMS.
 - [Winter.DriverMailgun](https://github.com/wintercms/wn-drivermailgun-plugin) - Driver that adds support for the Mailgun mailer.
 - [Winter.DriverMandrill](https://github.com/wintercms/wn-drivermandrill-plugin) - Driver that adds support for the Mandrill mailer.
 - [Winter.DriverPostmark](https://github.com/wintercms/wn-driverpostmark-plugin) - Driver that adds support for the Postmark mailer.
 - [Winter.DriverSendGrid](https://github.com/wintercms/wn-driversendgrid-plugin) - Driver that adds support for the SendGrid mailer.
 - [Winter.DriverSparkPost](https://github.com/wintercms/wn-driversparkpost-plugin) - Driver that adds support for the SparkPost mailer.
 - [Winter.Dusk](https://github.com/wintercms/wn-dusk-plugin) - Laravel Dusk integration (headless browser based integration testing suites).
+- [Winter.Excel](https://github.com/wintercms/wn-excel-plugin) - Provides tools for working with Excel files in Winter CMS.
 - [Winter.Forum](https://github.com/wintercms/wn-forum-plugin) - Robust forum platform.
 - [Winter.GoogleAnalytics](https://github.com/wintercms/wn-googleanalytics-plugin) - Google Analytics integration.
 - [Winter.Ignition](https://github.com/wintercms/wn-ignition-plugin) - Ignition error page integration.
@@ -87,14 +89,13 @@ Winter CMS is also compatible with most OctoberCMS plugins available at https://
 - [LukeTowers.EasyAudit](https://github.com/LukeTowers/oc-easyaudit-plugin) - $30 - Paid plugin that allows you to easily view and manage audit logs for models within your WinterCMS projects.
 - [LukeTowers.EasyFacebookFeed](https://github.com/LukeTowers/oc-easyfacebookfeed-plugin) - $20 - Paid plugin that adds the ability to display and interact with a Facebook Page feed. Posts are pulled from Facebook and stored locally in the database before being rendered by the Feed component allowing you to precisely control what appears on your website.
 - [LukeTowers.EasyFiles](https://github.com/LukeTowers/oc-easyfiles-public-plugin) - $50 - Paid file manager plugin that allows you to share your files with frontend users.
-- [LukeTowers.EasyForms](https://github.com/luketowers) - $50 - Paid plugin available on request that provides a GravityForms like experience for frontend forms.
+- [LukeTowers.EasyForms](https://github.com/luketowers) - $100 - Paid plugin available on request that provides a GravityForms like experience for frontend forms.
 - [LukeTowers.EasySPA](https://github.com/LukeTowers/oc-easyspa-plugin) - $30 - Paid plugin that enables frontend page navigation over AJAX bringing SPA-like performance to navigating between pages.
 - [LukeTowers.EEImport](https://github.com/LukeTowers/oc-eeimport-plugin) - Provides tools to import data directly from an ExpressionEngine database.
 - [LukeTowers.EFPDF](https://github.com/LukeTowers/oc-efpdf-plugin) - Generate PDFs from form submissions for the LukeTowers.EasyForms plugin.
 - [LukeTowers.EssentialVars](https://github.com/LukeTowers/oc-essentialvars-plugin) - Adds the `app_[url|logo|favicon|name|debug|description]` variables to Mail & CMS templates.
 - [LukeTowers.FileLocker](https://github.com/LukeTowers/oc-filelocker-plugin-issues) - $50 - Private, easy to use, file manager that provides access to authenticated users only.
 - [LukeTowers.FlashAlertNet](https://github.com/LukeTowers/wn-flashalertnet-plugin) - Pulls data from FlashAlert.net.
-- [LukeTowers.GDriveFilesystemDriver](https://github.com/LukeTowers/oc-gdrivefilesystemdriver-plugin) - Provides the Google Drive filesystem driver.
 - [LukeTowers.GNUTerryPratchett](https://github.com/LukeTowers/oc-gnuterrypratchett-plugin) - Keep Sir Terry Pratchett alive forever, in the Winter CMS clacks.
 - [LukeTowers.GoogleDomainVerification](https://github.com/LukeTowers/oc-googledomainverification-plugin) - Handles Google Domain Verification requests.
 - [LukeTowers.SnappyPDF](https://github.com/LukeTowers/oc-snappypdf-plugin) - Integrates SnappyPDF PDF generation into Winter CMS.
