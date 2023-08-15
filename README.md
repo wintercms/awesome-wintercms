@@ -254,18 +254,27 @@ Winter CMS is also compatible with most OctoberCMS themes available at https://o
 **Tutorials published in:**
 
 #### 2023:
+- [Basic Components with Winter CMS Part 1](https://www.youtube.com/watch?v=vLRlqpnxOYM)
+- [Basic Components with Winter CMS Part 2](https://www.youtube.com/watch?v=qlFIFzeC2Fk)
 - [Start with WinterCMS in VS Code on Docker
 ](https://marvindurot.dev/en/posts/start-with-wintercms-in-vscode-on-docker/)
+- [Winter CMS (Russian Tutorial Series)](https://www.youtube.com/playlist?list=PLV9MthfV-9LIR_FZ7biXBpgGgs2-mQ99f)
 
 #### 2022:
 - [Introduction on how to create a blog or news website with Winter CMS](https://www.youtube.com/watch?v=Itjy-Bxc0DA)
 - [How to create a personal blog or website with Winter CMS](https://www.youtube.com/watch?v=vsnXc9loxv8)
+- [Basic Frontend with Winter/October CMS](https://www.youtube.com/watch?v=Kv9eYWG3pdk)
+- [Perkenalan Wintercms, laravel php framework cms](https://www.youtube.com/watch?v=IeNfqcF62Vw)
+- [Setting up mail server preferences in Winter CMS](https://www.youtube.com/watch?v=ubgx-E2c9VI)
+- [How to work with partials in Winter CMS](https://www.youtube.com/watch?v=Um40n8XoS9A)
 
 #### 2021:
 - [Basic theming in Winter CMS with Tailwind 3](https://www.youtube.com/watch?v=cMt44IFEhVs)
 - [Setup: Winter theme and Css with Tailwindcss 3.0](https://www.youtube.com/watch?v=813ctpX2p7Y)
 - [Snowflake Plugin for Winter CMS](https://www.youtube.com/watch?v=LefF7tgDENo)
+- [Build a website from scratch using Winter CMS - 16 video series](https://www.youtube.com/playlist?list=PL4BzMLrNDzNCmEngBfYCUdx_kSMhGcJRb)
 - [Winter CMS - Introduction and Installation](https://www.youtube.com/watch?v=Qj9GKSkH21k)
+- [Winter CMS: The FREE October CMS Alternative](https://www.youtube.com/watch?v=QAZLwZSq5BU)
 
 #### 2019
 - [Getting started with October CMS and Static Pages - v.2](https://octobercms.com/blog/post/getting-started-october-cms-static-pages-v2)
