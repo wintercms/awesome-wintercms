@@ -109,8 +109,8 @@ Winter CMS is also compatible with most OctoberCMS plugins available at https://
 - Marc Jauvin - [StudioAzura.FAQ](https://github.com/mjauvin/wn-faq-plugin) - Manage Q&As.
 
 #### Community
-- [Aic.GoogleCalendar](https://github.com/AIC-BV/wn-googlecalendar-plugin) - Wrapper plugin for [spatie/laravel-google-calendar](https://github.com/spatie/laravel-google-calendar)
 - [Aic.Faq](https://github.com/AIC-BV/wn-faq-plugin) - Create (multilingual) FAQs and assign them to categories.
+- [Aic.GoogleCalendar](https://github.com/AIC-BV/wn-googlecalendar-plugin) - Wrapper plugin for [spatie/laravel-google-calendar](https://github.com/spatie/laravel-google-calendar)
 - [Asped.BlogProtect](https://packagist.org/packages/asped/wn-blogprotect-plugin) - Adds permissions to the blog posts.
 - [ByteMethod.Blizzard](https://packagist.org/packages/bytemethod/wn-blizzard-plugin) - A collection of extensions and helpers for Winter CMS.
 - [Dimsog.Blog](https://packagist.org/packages/dimsog/wn-blog-plugin) - A simple blog plugin for WinterCMS.
