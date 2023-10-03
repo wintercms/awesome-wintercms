@@ -123,9 +123,11 @@ Winter CMS is also compatible with most OctoberCMS plugins available at https://
 - [Flynsarmy.ImageOptimizer](https://github.com/Flynsarmy/wn-imageoptimizer-plugin) - Automatically optimizes images on upload/resize.
 - [Flynsarmy.Menu](https://github.com/Flynsarmy/wn-menu-plugin) - This plugin adds customisable and flexible menu generation to Winter CMS with a convenient drag and drop UI.
 - [GinoPane.BlogTaxonomy](https://packagist.org/packages/ginopane/wn-blogtaxonomy-plugin) - A robust Winter CMS plugin which extends Winter Blog Plugin with useful taxonomies.
+- [Houndd.lightGallery](https://packagist.org/packages/hounddd/wn-lightgallery-plugin) - Galleries plugin for Winter CMS with lightbox support.
 - [Houndd.MallForWinter](https://packagist.org/packages/hounddd/wn-mallforwinter-plugin) - Improve Offline.mall compatibility with WinterCMS.
 - [Houndd.MallImportExport](https://packagist.org/packages/hounddd/wn-mallimportexport-plugin) - Import or export data to OFFLINE.mall.
 - [Houndd.Tawkto](https://packagist.org/packages/hounddd/wn-tawkto-plugin) - TawkTo chat plugin for WinterCMS.
+- [Houndd.ThemeSwitcher](https://packagist.org/packages/hounddd/wn-themeswitcher-plugin) - Theme switcher plugin for Winter CMS.
 - [Imateo.Dump](https://packagist.org/packages/imateo/wn-dump-plugin) - Winter CMS twig dump.
 - [JosephCrowell.LeafletMap](https://packagist.org/packages/josephcrowell/wn-leafletmap-plugin) - Leaflet Maps plugin for Winter CMS.
 - [JosephCrowell.MagicForms](https://packagist.org/packages/josephcrowell/wn-magicforms-plugin) - Create easy (and almost magic) AJAX forms for Winter CMS. Fork of Martin.Forms.
