@@ -176,13 +176,14 @@ Winter CMS is also compatible with most OctoberCMS plugins available at https://
 - [SunLab.EmojiForBlog](https://packagist.org/packages/sunlab/wn-emojiforblog-plugin) - Integrates the EmojiPicker formwidget with Winter.Blog.
 - [SunLab.ForumUpload](https://packagist.org/packages/sunlab/wn-forumupload-plugin) - Adds files upload feature to Winter.Forum.
 - [Teranode.ApplicationCore](https://packagist.org/packages/teranode/wn-application-core-plugin) - Laravel class loader plugin for Winter CMS.
-- [WebVPF.Robots](https://packagist.org/packages/webvpf/wn-robots-plugin) - Adds robots.txt for your site.
-- [WebVPF.DashboardWidgets](https://packagist.org/packages/webvpf/wn-dashboardwidgets-plugin) - A collection of report widgets for the Winter CMS dashboard.
-- [WebVPF.FullScreen](https://packagist.org/packages/webvpf/wn-fullscreen-plugin) - Adds a Full Screen button to the backend toolbar.
-- [WebVPF.ShareButtons](https://packagist.org/packages/webvpf/wn-share-plugin) - Displays share buttons.
 - [WebVPF.Christmas](https://packagist.org/packages/webvpf/wn-christmas-plugin) - Christmas plugin for Winter CMS.
 - [WebVPF.DarkBackend](https://packagist.org/packages/webvpf/wn-darkbackend-plugin) - Dark theme backend skin.
+- [WebVPF.DashboardWidgets](https://packagist.org/packages/webvpf/wn-dashboardwidgets-plugin) - A collection of report widgets for the Winter CMS dashboard.
+- [WebVPF.FullScreen](https://packagist.org/packages/webvpf/wn-fullscreen-plugin) - Adds a Full Screen button to the backend toolbar.
+- [WebVPF.Robots](https://packagist.org/packages/webvpf/wn-robots-plugin) - Adds robots.txt for your site.
+- [WebVPF.ShareButtons](https://packagist.org/packages/webvpf/wn-share-plugin) - Displays share buttons.
 - [WebVPF.SimpleDocs](https://packagist.org/packages/webvpf/wn-simpledocs-plugin) - Simple documentation presented in frontend themes.
+- [WebVPF.TrafficAdvice](https://packagist.org/packages/webvpf/wn-trafficadvice-plugin) - Plugin for managing the amount of preload traffic.
 - [Wrve.AjaxPopup](https://packagist.org/packages/wrve/wn-ajaxpopup-plugin) - Show dynamic popups in frontend themes.
 - [Zaxbux.GmailDriver](https://packagist.org/packages/zaxbux/wn-gmaildriver-plugin) - Provides a Gmail mail driver.
 - [Zimudec.Wizard](https://packagist.org/packages/zimudec/wn-wizard-plugin) - Manage "Wizards" (step based interactions).
