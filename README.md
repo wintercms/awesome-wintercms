@@ -42,6 +42,7 @@
 Winter CMS is also compatible with most OctoberCMS plugins available at https://octobercms.com/plugins
 
 #### First Party
+- [Winter.Battlesnake](https://github.com/wintercms/wn-battlesnake-plugin) - WIP plugin for building [Battlesnakes](https://play.battlesnake.com/) in Winter CMS.
 - [Winter.Blocks](https://github.com/wintercms/wn-blocks-plugin) - Provides a "block based" content management experience.
 - [Winter.Blog](https://github.com/wintercms/wn-blog-plugin) - Robust blogging platform.
 - [Winter.Builder](https://github.com/wintercms/wn-builder-plugin) - GUI for building Winter CMS plugins.
