@@ -221,6 +221,7 @@ Winter CMS is also compatible with most OctoberCMS themes available at https://o
 - https://bali.apjii.or.id/
 - https://barrymarries.com/
 - https://bbkeng.ca/
+- https://cadets.site/
 - https://cbg-bilan-competences.fr/
 - https://cityofroseburg.org/
 - https://communityanalytics.io/
