@@ -163,6 +163,7 @@ Winter CMS is also compatible with most OctoberCMS plugins available at https://
 - [StudioBosco.Helpers](https://packagist.org/packages/studiobosco/wn-helpers-plugin) - Collection of various helpers, twig extensions and form widgets.
 - [StudioBosco.KlaroCookieConsent](https://packagist.org/packages/studiobosco/wn-klarocookieconsent-plugin) - Klaro Cookie Consent plugin.
 - [StudioBosco.PagePreview](https://packagist.org/packages/studiobosco/wn-pagepreview-plugin) - Adds realtime preview button to StaticPage pages.
+- [SutidoBosco.PageRevisions](https://packagist.org/packages/studiobosco/wn-pagerevisions-plugin) - Adds "versions" tab to static pages.
 - [StudioBosco.SEO](https://packagist.org/packages/studiobosco/wn-seo-extension) - SEO plugin.
 - [StudioBosco.TranslateExtended](https://packagist.org/packages/studiobosco/wn-translate-extended) - Extends behavior of the default Translate Plugin.
 - [SunLab.UpDown](https://packagist.org/packages/sunlab/wn-updown-plugin) - Allows your users to up/down-vote any models.
