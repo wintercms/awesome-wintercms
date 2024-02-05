@@ -244,6 +244,7 @@ Winter CMS is also compatible with most OctoberCMS themes available at https://o
 - https://newcriterion.com
 - https://oldparr.co/
 - https://opendays2022.polito.it/
+- https://pantryportal.com - https://github.com/LukeTowers/wn-pantryportal.com-site
 - https://reportneedles.ca
 - https://salvomag.com/
 - https://spatialmedia.io/
