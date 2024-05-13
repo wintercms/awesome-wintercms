@@ -1,4 +1,5 @@
 ## Awesome WinterCMS
+
 > A curated list of awesome things related to Winter CMS.
 
 [Winter](https://wintercms.com) is a free, open-source, self-hosted Content Management System (CMS) platform based on the Laravel PHP Framework.
@@ -16,6 +17,7 @@
 - [Tutorials](#tutorials)
 
 ### Latest News
+
 - [View the blog](https://wintercms.com/blog/latest) for the latest updates.
 
 ### Official Resources
@@ -42,6 +44,7 @@
 Winter CMS is also compatible with most OctoberCMS plugins available at https://octobercms.com/plugins
 
 #### First Party
+
 - [Winter.Battlesnake](https://github.com/wintercms/wn-battlesnake-plugin) - WIP plugin for building [Battlesnakes](https://play.battlesnake.com/) in Winter CMS.
 - [Winter.Blocks](https://github.com/wintercms/wn-blocks-plugin) - Provides a "block based" content management experience.
 - [Winter.Blog](https://github.com/wintercms/wn-blog-plugin) - Robust blogging platform.
@@ -86,6 +89,7 @@ Winter CMS is also compatible with most OctoberCMS plugins available at https://
 - [Winter.UserPlus](https://github.com/wintercms/wn-userplus-plugin) - Demonstration of how to dynamically extend other plugins.
 
 #### By the Maintainers
+
 - [LukeTowers.AzureADSSO](https://github.com/LukeTowers/oc-azureadsso-plugin) - Adds support for logging into the backend with Azure Active Directory Single Sign On (SSO) OAuth.
 - [LukeTowers.EasyAudit](https://github.com/LukeTowers/oc-easyaudit-plugin) - $30 - Paid plugin that allows you to easily view and manage audit logs for models within your WinterCMS projects.
 - [LukeTowers.EasyFacebookFeed](https://github.com/LukeTowers/oc-easyfacebookfeed-plugin) - $20 - Paid plugin that adds the ability to display and interact with a Facebook Page feed. Posts are pulled from Facebook and stored locally in the database before being rendered by the Feed component allowing you to precisely control what appears on your website.
@@ -110,6 +114,7 @@ Winter CMS is also compatible with most OctoberCMS plugins available at https://
 - Marc Jauvin - [StudioAzura.FAQ](https://github.com/mjauvin/wn-faq-plugin) - Manage Q&As.
 
 #### Community
+
 - [Aic.Faq](https://github.com/AIC-BV/wn-faq-plugin) - Create (multilingual) FAQs and assign them to categories.
 - [Aic.GoogleCalendar](https://github.com/AIC-BV/wn-googlecalendar-plugin) - Wrapper plugin for [spatie/laravel-google-calendar](https://github.com/spatie/laravel-google-calendar)
 - [Asped.BlogProtect](https://packagist.org/packages/asped/wn-blogprotect-plugin) - Adds permissions to the blog posts.
@@ -140,13 +145,12 @@ Winter CMS is also compatible with most OctoberCMS plugins available at https://
 - [Mahony0.Floc](https://packagist.org/packages/mahony0/wn-floc-plugin) - Provides middleware to disable FLoC.
 - [Mahony0.Updater](https://packagist.org/packages/mahony0/wn-updater-plugin) - Update WinterCMS via remote command.
 - [MarcoMessa.Vite](https://packagist.org/packages/marcomessa/wn-vite-plugin) - Plugin required for Vite TailwindCss Theme.
-- [Mercator.TwigExt](https://packagist.org/packages/mercator/wn-twigext-plugin) - Various Twig extensions.
+- [Mercator.TwigExt](https://packagist.org/packages/mercator/wn-twigext-plugin) - Various Twig extensions, based on OctoberCMS'[Twig Extensions](https://github.com/vojtasvoboda/oc-twigextensions-plugin) by Vojta Svoboda.
 - [Mercator.Media](https://packagist.org/packages/mercator/wn-media-plugin) - Various enhancements for image resizing and processing using Intervention Image.
 - [Mercator.PageBuilderSkeleton](https://packagist.org/packages/mercator/wn-pagebuilder-skeleton-plugin) - Page Builder Demo Plugin.
 - [Mercator.Passwordless](https://packagist.org/packages/mercator/wn-passwordless-plugin) - Passwordless frontend login for Winter.User users.
 - [Mercator.SecretPage](https://packagist.org/packages/mercator/wn-secretpage-plugin) - Password-protection of individual CMS or Winter Static Pages.
 - [Mercator.ThemeUpdater](https://packagist.org/packages/mercator/wn-themeupdater-plugin) - Winter CMS Theme Updater Plugin.
-- [Mercator.TwigExt](https://packagist.org/packages/mercator/wn-twigext-plugin) - Provides several Twig filters and functions.
 - [MikP.Auth0Login](https://packagist.org/packages/mikp/wn-auth0login-plugin) - Auth0 login extension to Social Login plugin.
 - [MikP.OpenIDConnect](https://packagist.org/packages/mikp/wn-openidconnect-plugin) - OpenID Connect extension to Social Login plugin.
 - [MikP.SanctumTokens](https://packagist.org/packages/mikp/wn-sanctum-tokens-plugin) - Integrates Laravel Sanctum.
@@ -191,7 +195,7 @@ Winter CMS is also compatible with most OctoberCMS plugins available at https://
 - [Wrve.AjaxPopup](https://packagist.org/packages/wrve/wn-ajaxpopup-plugin) - Show dynamic popups in frontend themes.
 - [Zaxbux.GmailDriver](https://packagist.org/packages/zaxbux/wn-gmaildriver-plugin) - Provides a Gmail mail driver.
 - [Zimudec.Wizard](https://packagist.org/packages/zimudec/wn-wizard-plugin) - Manage "Wizards" (step based interactions).
- 
+
 ### Themes
 
 Winter CMS is also compatible with most OctoberCMS themes available at https://octobercms.com/themes
@@ -203,6 +207,7 @@ Winter CMS is also compatible with most OctoberCMS themes available at https://o
 - [Nabu](https://github.com/wintercms/wn-nabu-theme) - An elegant TailwindCSS based theme designed for documentation sites using the Winter.Docs plugin.
 
 #### Community
+
 - [ViteTailwind](https://packagist.org/packages/marcomessa/wn-vite-tailwind-theme) - A starter blank theme powered by Vite and TailwindCSS.
 - [Blocks](https://packagist.org/packages/hounddd/wn-blocks-theme) - Theme that demonstrates the use of repeater groups to assemble static pages with customizable building sections and blocks.
 - [PostsDemo](https://packagist.org/packages/dynamedia/wn-postsdemo-theme) - Demo theme for Dynamedia Posts plugin.
@@ -264,14 +269,16 @@ Winter CMS is also compatible with most OctoberCMS themes available at https://o
 
 **Tutorials published in:**
 
-#### 2023:
+#### 2023
+
 - [Basic Components with Winter CMS Part 1](https://www.youtube.com/watch?v=vLRlqpnxOYM)
 - [Basic Components with Winter CMS Part 2](https://www.youtube.com/watch?v=qlFIFzeC2Fk)
 - [Start with WinterCMS in VS Code on Docker
 ](https://marvindurot.dev/en/posts/start-with-wintercms-in-vscode-on-docker/)
 - [Winter CMS (Russian Tutorial Series)](https://www.youtube.com/playlist?list=PLV9MthfV-9LIR_FZ7biXBpgGgs2-mQ99f)
 
-#### 2022:
+#### 2022
+
 - [Introduction on how to create a blog or news website with Winter CMS](https://www.youtube.com/watch?v=Itjy-Bxc0DA)
 - [How to create a personal blog or website with Winter CMS](https://www.youtube.com/watch?v=vsnXc9loxv8)
 - [Basic Frontend with Winter/October CMS](https://www.youtube.com/watch?v=Kv9eYWG3pdk)
@@ -279,7 +286,8 @@ Winter CMS is also compatible with most OctoberCMS themes available at https://o
 - [Setting up mail server preferences in Winter CMS](https://www.youtube.com/watch?v=ubgx-E2c9VI)
 - [How to work with partials in Winter CMS](https://www.youtube.com/watch?v=Um40n8XoS9A)
 
-#### 2021:
+#### 2021
+
 - [Basic theming in Winter CMS with Tailwind 3](https://www.youtube.com/watch?v=cMt44IFEhVs)
 - [Setup: Winter theme and Css with Tailwindcss 3.0](https://www.youtube.com/watch?v=813ctpX2p7Y)
 - [Snowflake Plugin for Winter CMS](https://www.youtube.com/watch?v=LefF7tgDENo)
@@ -288,15 +296,18 @@ Winter CMS is also compatible with most OctoberCMS themes available at https://o
 - [Winter CMS: The FREE October CMS Alternative](https://www.youtube.com/watch?v=QAZLwZSq5BU)
 
 #### 2019
+
 - [Getting started with October CMS and Static Pages - v.2](https://octobercms.com/blog/post/getting-started-october-cms-static-pages-v2)
 - [Running October on AWS - Part 2](https://octobercms.com/blog/post/running-october-aws-part-2)
 - [Running October on AWS - Part 1](https://octobercms.com/blog/post/running-october-aws-part-1)
 - [Watch and Learn - Vue, Vuex and October CMS App](https://octobercms.com/support/article/ob-23)
 
 #### 2018
+
 - [Watch and Learn video series](https://octobercms.com/support/article/ob-18)
 
 #### 2017
+
 - [Collection of third party resources](https://octobercms.com/support/article/ob-22)
 - [Beyond Behaviors - Part 3: Implementing a nested relationship](https://octobercms.com/support/article/ob-21)
 - [Beyond Behaviors - Part 2: Rendering Lists and Forms by hand](https://octobercms.com/support/article/ob-20)
@@ -312,11 +323,13 @@ Winter CMS is also compatible with most OctoberCMS themes available at https://o
 - [Rapid Application Development with Builder](https://octobercms.com/support/article/ob-12)
 
 #### 2015
+
 - [Back-end Relations](https://octobercms.com/support/article/ob-11)
 - [Media Manager Introduction](https://octobercms.com/support/article/ob-8)
 - [Building client-friendly websites](https://octobercms.com/blog/post/building-client-friendly-websites)
 
 #### 2014
+
 - [Extending the User plugin](https://octobercms.com/support/article/ob-10)
 - [Translating Content, Messages and Models](https://octobercms.com/support/article/ob-9)
 - [Static Pages - Content Blocks and Placeholders](https://octobercms.com/blog/post/static-pages-content-blocks-and-placeholders)
