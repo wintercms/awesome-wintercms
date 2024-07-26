@@ -164,6 +164,7 @@ Winter CMS is also compatible with most OctoberCMS plugins available at https://
 - [PlanetaDeleste.LocationTowns](https://packagist.org/packages/planetadeleste/wn-locationtowns-plugin) - Adds cities / towns to Winter.Location.
 - [Skripteria.Snowflake](https://packagist.org/packages/skripteria/wn-snowflake-plugin) - Dynamic content manager.
 - [Skripteria.SiteSearch](https://packagist.org/packages/skripteria/wn-site-search-plugin) - Provides global search for the frontend.
+- [Sommer.MultiDB](https://packagist.org/packages/sommer/wn-multidb-plugin) - Manage multiple database connections.
 - [StudioBosco.BackendNotifications](https://packagist.org/packages/studiobosco/wn-backendnotifications-plugin) - API & UI for managing backend notifications.
 - [StudioBosco.BackendComments](https://packagist.org/packages/studiobosco/wn-backendcomments-plugin) - Provides commenting in the backend.
 - [StudioBosco.Helpers](https://packagist.org/packages/studiobosco/wn-helpers-plugin) - Collection of various helpers, twig extensions and form widgets.
