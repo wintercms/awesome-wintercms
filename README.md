@@ -237,6 +237,7 @@ Winter CMS is also compatible with most OctoberCMS themes available at https://o
 - https://computerlink.com.au/
 - https://coeursdechiens.ch/
 - https://cushionhouseaustralia.com.au/
+- https://daretodominate.com/
 - https://dth-herzzentrum.ch/en
 - https://godotengine.org/
 - https://gregorybrown.com.br/
