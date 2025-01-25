@@ -87,6 +87,7 @@ Winter CMS is also compatible with most OctoberCMS plugins available at https://
 - [Winter.Twitter](https://github.com/wintercms/wn-twitter-plugin) - Twitter integration.
 - [Winter.User](https://github.com/wintercms/wn-user-plugin) - Frontend user management.
 - [Winter.UserPlus](https://github.com/wintercms/wn-userplus-plugin) - Demonstration of how to dynamically extend other plugins.
+- [Winter.Vapor](https://github.com/wintercms/wn-vapor-plugin) - Simplifies running Winter CMS projects on [Laravel Vapor](https://vapor.laravel.com)
 
 #### By the Maintainers
 
