@@ -65,6 +65,7 @@ Winter CMS is also compatible with most OctoberCMS plugins available at https://
 - [Winter.Forum](https://github.com/wintercms/wn-forum-plugin) - Robust forum platform.
 - [Winter.GoogleAnalytics](https://github.com/wintercms/wn-googleanalytics-plugin) - Google Analytics integration.
 - [Winter.Ignition](https://github.com/wintercms/wn-ignition-plugin) - Ignition error page integration.
+- [Winter.LaravelCloud](https://github.com/wintercms/wn-laravelcloud-plugin) - Simplifies running Winter CMS projects on [Laravel Cloud](https://cloud.laravel.com)
 - [Winter.Location](https://github.com/wintercms/wn-location-plugin) - Provides location data (Countries & States) for use by other plugins.
 - [Winter.Mailchimp](https://github.com/wintercms/wn-mailchimp-plugin) - Mailchimp integration.
 - [Winter.Matomo](https://github.com/wintercms/wn-matomo-plugin) - Matomo Analytics integration.
