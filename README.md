@@ -69,6 +69,7 @@ Winter CMS is also compatible with most OctoberCMS plugins available at https://
 - [Winter.LaravelCloud](https://github.com/wintercms/wn-laravelcloud-plugin) - Simplifies running Winter CMS projects on [Laravel Cloud](https://cloud.laravel.com)
 - [Winter.LaravelNightwatch](https://github.com/wintercms/wn-laravelnightwatch-plugin) - Adds support for [Laravel Nightwatch](https://nightwatch.laravel.com) (first-class monitoring for Laravel applications) to Winter CMS
 - [Winter.Location](https://github.com/wintercms/wn-location-plugin) - Provides location data (Countries & States) for use by other plugins.
+- [Winter.Mall](https://github.com/wintercms/wn-mall-plugin) - Ecommerce solution for Winter CMS (fork of Offline.Mall).
 - [Winter.Mailchimp](https://github.com/wintercms/wn-mailchimp-plugin) - Mailchimp integration.
 - [Winter.Matomo](https://github.com/wintercms/wn-matomo-plugin) - Matomo Analytics integration.
 - [Winter.Notes](https://github.com/wintercms/wn-notes-plugin) - Mac OS like experience for managing "notes" for any record.
