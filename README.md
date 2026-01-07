@@ -57,6 +57,7 @@ Winter CMS is also compatible with most OctoberCMS plugins available at https://
 - [Winter.DriverGoogleDrive](https://github.com/wintercms/wn-drivergoogledrive-plugin) - Driver that adds support for Google Drive as a filesystem to Winter CMS.
 - [Winter.DriverMailgun](https://github.com/wintercms/wn-drivermailgun-plugin) - Driver that adds support for the Mailgun mailer.
 - [Winter.DriverMandrill](https://github.com/wintercms/wn-drivermandrill-plugin) - Driver that adds support for the Mandrill mailer.
+- [Winter.DriverMSGraph](https://github.com/wintercms/wn-drivermsgraph-plugin) - Driver that adds support for the MS Graph API mailer.
 - [Winter.DriverPostmark](https://github.com/wintercms/wn-driverpostmark-plugin) - Driver that adds support for the Postmark mailer.
 - [Winter.DriverSendGrid](https://github.com/wintercms/wn-driversendgrid-plugin) - Driver that adds support for the SendGrid mailer.
 - [Winter.DriverSparkPost](https://github.com/wintercms/wn-driversparkpost-plugin) - Driver that adds support for the SparkPost mailer.
@@ -152,6 +153,7 @@ Winter CMS is also compatible with most OctoberCMS plugins available at https://
 - [Mahony0.Floc](https://packagist.org/packages/mahony0/wn-floc-plugin) - Provides middleware to disable FLoC.
 - [Mahony0.Updater](https://packagist.org/packages/mahony0/wn-updater-plugin) - Update WinterCMS via remote command.
 - [MarcoMessa.Vite](https://packagist.org/packages/marcomessa/wn-vite-plugin) - Plugin required for Vite TailwindCss Theme.
+- [Mercator.LocalFonts](https://packagist.org/packages/mercator/wn-localfonts-plugin) - Localize Google, Bunny, and Fontshare fonts for Winter CMS
 - [Mercator.Media](https://packagist.org/packages/mercator/wn-media-plugin) - Various enhancements for image resizing and processing using Intervention Image.
 - [Mercator.PageBuilderSkeleton](https://packagist.org/packages/mercator/wn-pagebuilder-skeleton-plugin) - Page Builder Demo Plugin.
 - [Mercator.Passwordless](https://packagist.org/packages/mercator/wn-passwordless-plugin) - Passwordless frontend login for Winter.User users.
