@@ -85,6 +85,7 @@ Winter CMS is also compatible with most OctoberCMS plugins available at https://
 - [Winter.SEO](https://github.com/wintercms/wn-seo-plugin) - Easily manage SEO metadata.
 - [Winter.Sitemap](https://github.com/wintercms/wn-sitemap-plugin) - Manages sitemap.xml definitions.
 - [Winter.SSO](https://github.com/wintercms/wn-sso-plugin) - Adds support for OAuth-based Single Sign On (SSO) to the backend module through the use of Laravel Socialiate.
+- [Winter.SSOProviderMicrosoft](https://github.com/wintercms/wn-ssoprovidermicrosoft-plugin) - Microsoft 365 and Azure AD authentication provider for Winter.SSO.
 - [Winter.TailwindUI](https://github.com/wintercms/wn-tailwindui-plugin) - Provides a modern backend skin based on Tailwind UI.
 - [Winter.Test](https://github.com/wintercms/wn-test-plugin) - Playground for features available in Winter CMS.
 - [Winter.TinyPNG](https://github.com/wintercms/wn-tinypng-plugin) - TinyPNG integration with the built-in ImageResizer.
