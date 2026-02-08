@@ -138,6 +138,7 @@ Winter CMS is also compatible with most OctoberCMS plugins available at https://
 - [Flynsarmy.ImageOptimizer](https://github.com/Flynsarmy/wn-imageoptimizer-plugin) - Automatically optimizes images on upload/resize.
 - [Flynsarmy.Menu](https://github.com/Flynsarmy/wn-menu-plugin) - This plugin adds customisable and flexible menu generation to Winter CMS with a convenient drag and drop UI.
 - [GinoPane.BlogTaxonomy](https://packagist.org/packages/ginopane/wn-blogtaxonomy-plugin) - A robust Winter CMS plugin which extends Winter Blog Plugin with useful taxonomies.
+- [HendrikErz.DashboardWidgets](https://packagist.org/packages/hendrikerz/wn-dashboard-widgets-plugin) - A comprehensive plugin for a set of basic dashboard widgets.
 - [Hounddd.Data](https://packagist.org/packages/hounddd/wn-data-plugin) - Spatie laravel-data package wrapper for WinterCMS.
 - [Hounddd.GdprPlus](https://packagist.org/packages/hounddd/wn-gdprplus-plugin) - Additional features for OFFLINE.Gdpr plugin.
 - [Hounddd.lightGallery](https://packagist.org/packages/hounddd/wn-lightgallery-plugin) - Galleries plugin for Winter CMS with lightbox support.
