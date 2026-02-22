@@ -196,6 +196,7 @@ Winter CMS is also compatible with most OctoberCMS plugins available at https://
 - [SunLab.EmojiForBlog](https://packagist.org/packages/sunlab/wn-emojiforblog-plugin) - Integrates the EmojiPicker formwidget with Winter.Blog.
 - [SunLab.ForumUpload](https://packagist.org/packages/sunlab/wn-forumupload-plugin) - Adds files upload feature to Winter.Forum.
 - [Teranode.ApplicationCore](https://packagist.org/packages/teranode/wn-application-core-plugin) - Laravel class loader plugin for Winter CMS.
+- [TheWebsiteGuy.FormWizard](https://github.com/TheWebsiteGuy/wn-formwizard-plugin) - Create easy frontend forms using drag-and-drop builder.
 - [WebVPF.Christmas](https://packagist.org/packages/webvpf/wn-christmas-plugin) - Christmas plugin for Winter CMS.
 - [WebVPF.DarkBackend](https://packagist.org/packages/webvpf/wn-darkbackend-plugin) - Dark theme backend skin.
 - [WebVPF.DashboardWidgets](https://packagist.org/packages/webvpf/wn-dashboardwidgets-plugin) - A collection of report widgets for the Winter CMS dashboard.
