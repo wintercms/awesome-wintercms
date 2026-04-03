@@ -157,10 +157,9 @@ Winter CMS is also compatible with most OctoberCMS plugins available at https://
 - [MarcoMessa.Vite](https://packagist.org/packages/marcomessa/wn-vite-plugin) - Plugin required for Vite TailwindCss Theme.
 - [Mercator.LocalFonts](https://packagist.org/packages/mercator/wn-localfonts-plugin) - Localize Google, Bunny, and Fontshare fonts for Winter CMS
 - [Mercator.Media](https://packagist.org/packages/mercator/wn-media-plugin) - Various enhancements for image resizing and processing using Intervention Image.
-- [Mercator.PageBuilderSkeleton](https://packagist.org/packages/mercator/wn-pagebuilder-skeleton-plugin) - Page Builder Demo Plugin.
 - [Mercator.Passwordless](https://packagist.org/packages/mercator/wn-passwordless-plugin) - Passwordless frontend login for Winter.User users.
 - [Mercator.SecretPage](https://packagist.org/packages/mercator/wn-secretpage-plugin) - Password-protection of individual CMS or Winter Static Pages.
-- [Mercator.ThemeUpdater](https://packagist.org/packages/mercator/wn-themeupdater-plugin) - Winter CMS Theme Updater Plugin.
+- [Mercator.Totp2fa](https://github.com/helmutkaufmann/wn-totp2fa-plugin) - Time-based one time password two-factor authentication (TOTP 2FA) for Winter CMS backend users.
 - [Mercator.TwigExt](https://packagist.org/packages/mercator/wn-twigext-plugin) - Various Twig extensions, based on OctoberCMS'[Twig Extensions](https://github.com/vojtasvoboda/oc-twigextensions-plugin) by Vojta Svoboda.
 - [MikP.Auth0Login](https://packagist.org/packages/mikp/wn-auth0login-plugin) - Auth0 login extension to Social Login plugin.
 - [MikP.OpenIDConnect](https://packagist.org/packages/mikp/wn-openidconnect-plugin) - OpenID Connect extension to Social Login plugin.
