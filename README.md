@@ -119,6 +119,13 @@ Winter CMS is also compatible with most OctoberCMS plugins available at https://
 - [JaxWilko.OpcachePreload](https://packagist.org/packages/jaxwilko/wn-opcachepreload-plugin) - Winter CMS support for opcache preloading.
 - Marc Jauvin - [StudioAzura.BackendUserPlus](https://github.com/mjauvin/wn-backenduserplus-plugin) - Improve Backend User Management.
 - Marc Jauvin - [StudioAzura.FAQ](https://github.com/mjauvin/wn-faq-plugin) - Manage Q&As.
+- Damien MATHIEU (DamsFX) - [Hounddd.Data](https://github.com/Hounddd/wn-data-plugin) - Spatie laravel-data package wrapper for WinterCMS.
+- Damien MATHIEU (DamsFX) - [Hounddd.GdprPlus](https://github.com/Hounddd/wn-gdprplus-plugin) - Additional features for OFFLINE.Gdpr plugin.
+- Damien MATHIEU (DamsFX) - [Hounddd.LightGallery](https://github.com/Hounddd/wn-lightgallery-plugin) - Galleries plugin for Winter CMS with lightbox support.
+- Damien MATHIEU (DamsFX) - [Hounddd.MailDkim](https://github.com/Hounddd/wn-maildkim-plugin) - Add a DKIM signature to outgoing emails.
+- Damien MATHIEU (DamsFX) - [Hounddd.MallImportExport](https://github.com/Hounddd/wn-mallimportexport-plugin) - Import or export data to OFFLINE.mall.
+- Damien MATHIEU (DamsFX) - [Hounddd.Tawkto](https://github.com/Hounddd/wn-tawkto-plugin) - TawkTo chat plugin for WinterCMS.
+- Damien MATHIEU (DamsFX) - [Hounddd.ThemeSwitcher](https://github.com/Hounddd/wn-themeswitcher-plugin) - Theme switcher plugin for Winter CMS.
 
 #### Community
 
@@ -139,13 +146,6 @@ Winter CMS is also compatible with most OctoberCMS plugins available at https://
 - [Flynsarmy.Menu](https://github.com/Flynsarmy/wn-menu-plugin) - This plugin adds customisable and flexible menu generation to Winter CMS with a convenient drag and drop UI.
 - [GinoPane.BlogTaxonomy](https://packagist.org/packages/ginopane/wn-blogtaxonomy-plugin) - A robust Winter CMS plugin which extends Winter Blog Plugin with useful taxonomies.
 - [HendrikErz.DashboardWidgets](https://packagist.org/packages/hendrikerz/wn-dashboard-widgets-plugin) - A comprehensive plugin for a set of basic dashboard widgets.
-- [Hounddd.Data](https://packagist.org/packages/hounddd/wn-data-plugin) - Spatie laravel-data package wrapper for WinterCMS.
-- [Hounddd.GdprPlus](https://packagist.org/packages/hounddd/wn-gdprplus-plugin) - Additional features for OFFLINE.Gdpr plugin.
-- [Hounddd.lightGallery](https://packagist.org/packages/hounddd/wn-lightgallery-plugin) - Galleries plugin for Winter CMS with lightbox support.
-- [Hounddd.MallForWinter](https://packagist.org/packages/hounddd/wn-mallforwinter-plugin) - Improve Offline.mall compatibility with WinterCMS.
-- [Hounddd.MallImportExport](https://packagist.org/packages/hounddd/wn-mallimportexport-plugin) - Import or export data to OFFLINE.mall.
-- [Hounddd.Tawkto](https://packagist.org/packages/hounddd/wn-tawkto-plugin) - TawkTo chat plugin for WinterCMS.
-- [Hounddd.ThemeSwitcher](https://packagist.org/packages/hounddd/wn-themeswitcher-plugin) - Theme switcher plugin for Winter CMS.
 - [Imateo.Dump](https://packagist.org/packages/imateo/wn-dump-plugin) - Winter CMS twig dump.
 - [JosephCrowell.LeafletMap](https://packagist.org/packages/josephcrowell/wn-leafletmap-plugin) - Leaflet Maps plugin for Winter CMS.
 - [JosephCrowell.MagicForms](https://packagist.org/packages/josephcrowell/wn-magicforms-plugin) - Create easy (and almost magic) AJAX forms for Winter CMS. Fork of Martin.Forms.
