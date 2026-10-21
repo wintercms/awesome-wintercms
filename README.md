@@ -45,6 +45,7 @@ Winter CMS is also compatible with most OctoberCMS plugins available at https://
 
 #### First Party
 
+- [Winter.Altcha](https://github.com/wintercms/wn-altcha-plugin) - Provides a CAPTCHA service for user-facing Winter CMS plugins, using the [Altcha](https://altcha.org) library.
 - [Winter.Battlesnake](https://github.com/wintercms/wn-battlesnake-plugin) - WIP plugin for building [Battlesnakes](https://play.battlesnake.com/) in Winter CMS.
 - [Winter.Blocks](https://github.com/wintercms/wn-blocks-plugin) - Provides a "block based" content management experience.
 - [Winter.Blog](https://github.com/wintercms/wn-blog-plugin) - Robust blogging platform.
